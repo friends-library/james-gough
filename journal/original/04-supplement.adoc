@@ -269,9 +269,6 @@ in daily gratitude to the kind Author of all good.
 
 --
 
-[.asterism]
-'''
-
 [.embedded-content-document.letter]
 --
 
@@ -296,9 +293,6 @@ and from thence to unfold doctrine, counsel, consolation and reproof,
 to the differing states of the people.
 
 --
-
-[.asterism]
-'''
 
 [.embedded-content-document.letter]
 --
@@ -758,9 +752,6 @@ reaching the witness, and tendering the hearts of many.
 
 --
 
-[.asterism]
-'''
-
 [.embedded-content-document.letter]
 --
 
@@ -788,9 +779,6 @@ that therein they may be blessed of the Lord, with his favour,
 which is better than all things else.
 
 --
-
-[.asterism]
-'''
 
 [.embedded-content-document.letter]
 --
