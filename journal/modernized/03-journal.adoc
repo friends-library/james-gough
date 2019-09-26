@@ -402,7 +402,7 @@ and so leads further and further from a due
 subjection to Christ`'s kingdom and government,
 often making them forget and lose the good which they formerly professed,
 and consequently draws them along into the utmost danger.
---Whereas adhering to the truth and its plain path,
+Whereas adhering to the truth and its plain path,
 opens the way for safer and more profitable and edifying connections,
 as I often found here, to my solid inward satisfaction,
 which I hope I shall never forget.
@@ -525,7 +525,7 @@ May I never forget the day of this his most engaging kindness, and of my espousa
 I may say truth is truth, unchangeably excellent, holy, pure and perfectly good.
 It leads to everything that is best, and upholds in it,
 and rewards for every act and instance of self-denial in obedience to its dictates.
---Ever worthy to be admired, adored, reverenced,
+Ever worthy to be admired, adored, reverenced,
 loved and served by all the nations in the world,
 as that which alone would make all happy in true love,
 and preserve all in pure and spotless order everywhere.
@@ -567,8 +567,8 @@ and was at the two meetings there on first-day, which were poor small meetings.
 On second-day I rode to Worcester,
 and stayed there at my kind friend William Beesley`'s over third-day.
 The week-day meeting there, was to me a tendering season,
-both in silence and under the lively ministry of old John Corbyn:
-towards the week`'s end I reached Kendal, where I stayed two or three weeks;
+both in silence and under the lively ministry of old John Corbyn.
+Towards the week`'s end I reached Kendal, where I stayed two or three weeks;
 during which stay, my father took a fever and died.
 A day or two after his funeral, I left Kendal and returned to Bristol, from which,
 after waiting sometime for a wind, I took shipping for Cork,
@@ -647,10 +647,11 @@ but not having that inward peace with Christ which he preferred before all the w
 in the first step of contention, he put a stop to all further proceedings,
 and rather chose to confide in God without it.
 
-For a more particular account of him, see the Collection of Friends`' Sufferings, vol.
-ii. and doctor Rutty`'s History of the Rise and Progress of Truth in Ireland.
+For a more particular account of him,
+see the [.book-title]#Collection of Friends`' Sufferings#, vol.
+ii. and doctor Rutty`'s [.book-title]#History of the Rise and Progress of Truth in Ireland.#
 Of him I have only to add, that he made a joyful and happy exit out of this world,
-in an exceedingly thankful and triumphant slate,
+in an exceedingly thankful and triumphant state,
 with a full assurance of going to live forever in a better.
 He died about seven or eight months after our marriage.
 
@@ -742,7 +743,7 @@ For my wife was the child of good parents,
 from whom she had received a religious education, of orderly conduct,
 innocent and well inclined, and we were in a good degree favoured together of the Lord,
 she being free to give me up to every service I thought it my duty to engage in.
--- Upon my first visit to her,
+Upon my first visit to her,
 the sense of truth and the solid edifying conduct of her worthy parents,
 deeply fixed the best impressions on my spirit, so that in my return home to Cork,
 twenty computed miles, my thankful heart was like a cup filled,
@@ -1245,7 +1246,10 @@ much beloved and esteemed of his neighbours and friends.
 
 When I came to the good old man`'s house, being now near eighty years of age,
 he was very much indisposed; and it being about the middle of the eighth month,
-(old style), or October,
+(old style), or October,^
+footnote:[Until 1752, March was considered the first month of the year
+in all of England and its colonies. O. S. stands for Old Style, referring to the
+former way of reckoning months according to the older Julian calendar.]
 and the friends in that part being late with some part of their harvest, he proposed,
 notwithstanding his infirmity, to accompany me to Limerick,
 a great day`'s journey for him when he was well, as the roads were then;
@@ -2132,7 +2136,7 @@ to the general meeting at Frandley in Cheshire.
 On second-day we reached Birmingham; after meeting there on third-day we went to Coventry.
 On fourth-day, after a meeting at Coventry, we reached Towcester, and London the next day.
 After the yearly meeting was over, Isaac Jackson returned home;
-Joshua Wilson stayed a little time among his relations; and Joseph Inman and T,
+Joshua Wilson stayed a little time among his relations; and Joseph Inman and I,
 accompanied by our kind landlord, John Eliott of London,
 on third-day came to an evening meeting at Reading, appointed to begin at the sixth hour.
 Next morning Joseph Inman and I were at the monthly meeting at Newberry,
@@ -2288,7 +2292,7 @@ both provisions and labour, so much dearer here than in Ireland,
 that discouragements and embarrassments crowded upon me to that degree,
 that I was often brought very low, under the gloomy prospect,
 and my faith was put to a severe trial;
-yet it pleased kind Providence to make way for me, and raise me relief in his own time,
+yet it pleased kind Providence to make way for me, and raise my relief in his own time,
 for which I desire to be ever gratefully thankful,
 and unreservedly dedicated in heart to his service, whose mercies fail not.
 
