@@ -1,15 +1,19 @@
 == Chapter III.
 
-George Fox is imprisoned in Derby.--Remarks thereupon.--Employs
-himself in writing sundry Epistles and Exhortations.--Justice
-Bennet gives him and his Friends the appellation of Quakers.
-Note thereupon.--George Fox refuseth to be released upon Bail,
-for which Bennett abuseth him.--The Jailer having been an Enemy to George Fox
-repents of his evil Treatment of him.--A Slander raised against the Quakers from
-a Soldier`'s Discourse with George Fox.--George Fox being solicited to go into
-the Army declares his Scruple against Wars.--Is imprisoned amongst Felons.--Pernicious
-Effects of keeping Prisoners long in Jail.--George Fox writes to Colonel Barton,
-etc.--Discharged from his Imprisonment.
+[.chapter-synopsis]
+* George Fox is imprisoned in Derby
+* Remarks thereupon
+* Employs himself in writing sundry Epistles and Exhortations
+* Justice Bennet gives him and his Friends the appellation of Quakers.
+* Note thereupon
+* George Fox refuseth to be released upon Bail, for which Bennett abuseth him
+* The Jailer having been an Enemy to George Fox repents of his evil Treatment of him
+* A Slander raised against the Quakers from a Soldier`'s Discourse with George Fox
+* George Fox being solicited to go into the Army declares his Scruple against Wars
+* Is imprisoned amongst Felons
+* Pernicious Effects of keeping Prisoners long in Jail
+* George Fox writes to Colonel Barton, etc.
+* Discharged from his Imprisonment
 
 From Chesterfield George Fox directed his course to Derby,
 where he was entertained at a doctor`'s house, whose wife was convinced, where,
@@ -26,11 +30,16 @@ and then committed him and another to the house of correction,
 by the following mittimus:^
 footnote:[George Fox`'s Journal, p. 29.]
 
-"`To the Master of the House of Correction in Derby,
+[.embedded-content-document.legal]
+--
 
+[.letter-heading]
+To the Master of the House of Correction in Derby,
+
+[.salutation]
 Greeting,
 
-"`We have sent you herewithal the Bodies of George Fox,
+We have sent you herewithal the Bodies of George Fox,
 late of Mansfield in the County of Nottingham, and John Fretwell,
 late of Staniesby in the County of Derby, Husbandman, brought before us this present Day,
 and charged with the avowed uttering and broaching of divers blasphemous Opinions,
@@ -67,13 +76,16 @@ or until they shall find sufficient Security to be of good Behaviour,
 or be thence delivered by Order from ourselves.
 Hereof you are not to fail.
 
+[.signed-section-closing]
 Given under our Hands and Seals this 30th Day of October, 1650,
 
+[.signed-section-signature]
 Ger.
-Bennet,
+Bennet
 
+[.signed-section-signature]
 Nath.
-Barton.`"
+Barton
 
 The magistrates of Nottingham appear to have imprisoned him without law,
 the magistrates of Derby would appear to commit by law;
@@ -493,6 +505,9 @@ and the rest who were concerned in his commitment, in which,
 through the simplicity of his style, the christian temper which dictated it is apparent;
 in substance as follows:
 
+[.embedded-content-document.letter]
+--
+
 You who profess yourselves to be christians, and one of you a minister of Jesus Christ,
 consider neither he nor his apostles did ever imprison any; but his command was,
 "`Love your enemies, and do good to them that hate you.`"
@@ -507,6 +522,8 @@ but my love is to you as to all my fellow creatures; and my intent in writing to
 that you may +++[+++be incited to]
 weigh yourselves, +++[+++in the balance of sincerity and equity]
 and see how you stand, +++[+++approved in the sight of God]
+
+--
 
 It is not improbable that this letter,
 together with the innocency and circumspection of his conduct,
