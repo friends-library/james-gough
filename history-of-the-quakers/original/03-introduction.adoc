@@ -1,10 +1,7 @@
 == INTRODUCTION.
 
-=== SECT. I.
-
-Of the different Dispensations,
-or Means whereby God hath condescended to reveal the Knowledge
-of himself and his Will to Mankind.
+[.old-style]
+=== Section I. / Of the different Dispensations, or Means whereby God hath condescended to reveal the Knowledge of himself and his Will to Mankind.
 
 The universal consent of all nations hath been advanced as a proof of the Being of a God:
 That in almost all ages and places of the world,
@@ -100,7 +97,7 @@ carrieth in it the plain marks of its divine origin;
 as being calculated to answer the important ends of true religion,
 according to the prophetic anthem of the heavenly host,
 in the prospect of the great benefits it would confer on the human race,
-Glory to God in the highest; in earth peace, good-will to men.
+_Glory to God in the highest; in earth peace, good-will to men._
 It is plain, practical and spiritual; not a system of nice speculations,
 accommodated only to the understandings of the narrow
 circle of the wise and the learned of this world;
@@ -191,9 +188,8 @@ and bring upon themselves swift destruction;
 and through covetousness shall they with feigned words make merchandize of you.`"^
 footnote:[2 Peter 2:1,3]
 
-=== SECT. II.
-
-Of the gradual Declension and Apostacy of the professed and visible Church.
+[.old-style]
+=== Section II. / Of the gradual Declension and Apostacy of the professed and visible Church.
 
 These predictions were soon verified by the consequential
 degeneracy of the Christian Church,
@@ -226,7 +222,9 @@ introduced the impure mixture into the Christian Church, before too much decline
 But from this period corruption overspread to an extensive degree.
 "`An attachment to heathenish and Jewish ceremonies,
 the introduction of images into the public places of worship,
-the canonizing and invoking of saints,`" and reversing Christianity into idolatry,
+the canonizing and invoking of saints,`"^
+footnote:[Formey]
+and reversing Christianity into idolatry,
 from which it is most abhorrent, are flagrant instances that Christianity,
 thus metamorphosed, had no title to the character of the Church of Christ,
 being in its spirit and tendency the very reverse thereof.
@@ -323,7 +321,9 @@ avarice, political intrigues, persecution, cruelty and revenge,
 (qualities diametrically opposite to the purity and nature of Christianity) in
 an equal or superior degree to the annals of most secular kingdoms.
 
-"`The bishops in general, who had the chief authority in church affairs, had,
+[quote]
+____
+The bishops in general, who had the chief authority in church affairs, had,
 for a succession of ages,
 lost daily more and more the proper qualifications of overseers in the Church of Christ,
 true piety and ancient simplicity of manners;
@@ -335,9 +335,9 @@ Nor were they content with grasping most or all the power and possessions
 of their respective fees into their own hands,
 but by the impulse of their unbounded ambition they entered into shameful
 and unchristian contentions with each other for preeminence in dignity,
-and supremacy in power.`"
+and supremacy in power.
 
-"`The fees of Alexandria, Rome and Constantinople became,
+The fees of Alexandria, Rome and Constantinople became,
 in a short time after Constantine`'s public profession of the Christian faith,
 possessed of so much power and wealth,
 that to gain possession of them engaged the emulous efforts of the principal ecclesiastics;
@@ -346,14 +346,15 @@ to the pure principles of Christianity as the object thereof,
 being frequently pursued by indirect means, frequently by violence and force of arms.
 And in a like manner they possessed them in too general a way,
 living on the spoil of the churches in splendor and luxury,
-inconsistent with the humility and temperance prescribed by the Gospel of Jesus Christ.`"^
+inconsistent with the humility and temperance prescribed by the Gospel of Jesus Christ.^
 footnote:[Formey]
+____
 
 The bishops of Rome, through the favour and assistance of the western potentates,
 succeeded at length in the struggle for supremacy,
 in claiming and procuring to themselves the titles
-of Universal Bishop Vicar of Jesus Christ,
-and Infallible Head of the Church.
+of _Universal Bishop Vicar of Jesus Christ_,
+and _Infallible Head of the Church._
 These claims, chimerical in themselves,
 and quite opposite to the genius of the Christian religion,
 could hardly have been advanced with any reasonable prospect of establishing them,
@@ -484,9 +485,8 @@ and many of her excellent children in several nations fell by the cruelty of sup
 because they would not fall from their faithfulness to the truth.`"^
 footnote:[From the The Rise and Progress of the People Called Quakers]
 
-=== SECT. III.
-
-Of the gradual Advancement of the Reformation.
+[.old-style]
+=== Section III. / Of the gradual Advancement of the Reformation.
 
 Even during these ages of gross darkness there arose a few individuals
 endued with light and sense to discern the enormities abounding
@@ -877,13 +877,13 @@ appear to be irreconcilable to these precepts of Christ and his apostles.
 "`The princes of the Gentiles exercise dominion over them, and they that are great,
 exercise authority upon them: but it shall not be so among you.`"
 Matt.
-20: 25-26. "`A bishop must be blameless, as the steward of God; not self-willed,
+20:25-26. "`A bishop must be blameless, as the steward of God; not self-willed,
 not soon angry, not given to wine, no striker; not given to filthy lucre,
 but a lover of hospitality; a lover of good men, sober, just, holy, temperate,`" etc.
-Titus 1: 7-8. "`Feed the flock of God, which is among you, taking the oversight thereof,
+Titus 1:7-8. "`Feed the flock of God, which is among you, taking the oversight thereof,
 not by constraint, but willingly; not for filthy lucre, but of a ready mind:
 Neither as being Lords over God`'s heritage, but being examples to the flock.`"
-1 Peter 5: 2-3.
+1 Peter 5:2-3.
 
 The vesting in the Bishops such a portion of honour, power and property,
 had no tendency to advance reformation;
@@ -942,7 +942,9 @@ having described the successive steps of the reformation in general terms,
 I quote his description, with some explanatory notes,
 as the readiest method to bring this introduction to a conclusion.
 
-"`The last age did set some steps towards reformation, both as to doctrine,
+[quote]
+____
+The last age did set some steps towards reformation, both as to doctrine,
 worship and practice; but practice quickly failed,
 for wickedness flowed in a little time,
 as well among the professors of the reformation as those they reformed from;
@@ -964,7 +966,7 @@ that inflicted those sufferings upon them:
 And it will be well if the Lord suffer them not to
 fall by the very same way they took to stand.
 
-"`In doctrine they were in some things short; in other things,
+In doctrine they were in some things short; in other things,
 to avoid one extreme they ran into another; and for worship,
 there was for the generality, more of man in it than of God.
 They owned the spirit, inspiration and revelation indeed,
@@ -1036,9 +1038,6 @@ and when they separated into a select society,
 in the place of Bishops they chose ruling Elders, or Presbyters, from among themselves,
 from whence they received the appellation of Presbyterians.
 {footnote-paragraph-split}
-
-{footnote-paragraph-split}
-
 Although in their first separation from the church of Rome,
 and afterwards in their dissent from the church of England, the Puritans were,
 many of them, actuated by pure conscientious motives, and were men of circumspect lives,
@@ -1142,7 +1141,7 @@ they soon sunk into obscurity, and dwindled in their numbers,
 till they became so inconsiderable a body of themselves, that they applied for,
 and obtained their desire, to be incorporated amongst the Presbyterians.]
 
-"`They would not communicate at large or in common with others,
+They would not communicate at large or in common with others,
 but formed churches among themselves of such as could give some account of their conversion,
 at least of very promising experiences of the work of God`'s Grace upon their hearts;
 and under mutual agreements and covenants of fellowship they kept together.
@@ -1218,7 +1217,39 @@ Nay, it is said they went so far as to maintain,
 "`that as neither the laws of the New Testament had placed any restraints upon men,
 with regard to the number of wives they might marry,
 they should use that liberty which God himself had granted to the Patriarchs.`"
-(Robertson)]
+(Robertson)
+{footnote-paragraph-split}
+The actions of these men were such as might be expected to flow from such extravagant notions:
+they made an insurrection in Westphalia, seized the city of Munster,
+and in their attempts to establish a commonwealth conformable to their wild ideas,
+ran into the most exorbitant and criminal excesses;
+which induced a confederacy of the secular powers to quell them by force of arms,
+and bring the ringleaders to condign punishment.
+This being effected, these commotions, which were principally raised by two obscure men,
+John Matthias, a baker, of Haarlem, and John Bocold, a journeyman tailor, of Leyden,
+subsided entirely; but the brand of infamy, which they stamped upon the denomination,
+was too deep to be readily effaced;
+and involved the innocent with the guilty in the fatal consequences of these disorders:
+Being persecuted in one city they fled into another,
+dispersing themselves and their opinions into divers countries,
+where although they led a quiet and peaceable life,
+and disavowed the criminal extravagancies of those of Munster,
+yet riveted prejudice, detestation and persecution were long attendant upon anabaptism,
+wherever it was adopted or professed.
+Numbers were martyred in different countries for their adherence thereto.
+And although in England persecution hath not in latter ages proceeded to that extremity;
+yet in every storm of persecution here,
+they had generally their full share.
+Next to the body of people, who are the subject of the following history,
+they were perhaps the most hated and persecuted sect,
+they having adopted many opinions of the same tenor with those
+which exposed the people called Quakers to the severity of their sufferings;
+they maintained the liberty of prophesying,
+as any individual was authorized and qualified by the gift or
+influence of the holy Spirit; some of them held war to be
+inconsistent with Christianity,
+and scrupled to take an oath they insisted that the gospel ought to be free,
+and denied the right of tithes, or other compulsory maintenance of ministers.]
 also made profession of neglecting, if not renouncing and censuring,
 not only the necessity, but use of all human learning, as to the ministry,
 and all other qualifications to it, besides the helps and gifts of the Spirit of God,
@@ -1226,7 +1257,7 @@ and those natural and common to men.
 And for a time they seemed like John of old,
 a burning and a shining light to other societies.
 
-"`They were very diligent, plain and serious, strong in scripture and bold in profession,
+They were very diligent, plain and serious, strong in scripture and bold in profession,
 bearing much reproach and contradiction.
 But that which others fell by proved their snare, for worldly power spoiled them too;
 who had enough of it to try them what they would do if they had more:
@@ -1242,10 +1273,10 @@ as sheep without a shepherd, and as doves without their mates; seeking their bel
 but could not find him, as their souls desired to know him,
 whom their souls loved above their chiefest joy.
 
-"`These people were called Seekers by some, and the Family of Love by others; because,
+These people were called Seekers by some, and the Family of Love by others; because,
 as they came to the knowledge of one another, they sometimes met together,
 not formally to pray or preach at appointed times or places, in their own wills,
-as in times past they were accustomed to do, but waited together in ,
+as in times past they were accustomed to do, but waited together in,
 and as any thing rose in any one of their minds that
 they thought savoured of a divine spring,
 they sometimes spoke.
@@ -1256,7 +1287,7 @@ opened their understandings to see great things in his law,
 they ran out in their own imaginations, and mixing them with those divine openings,
 brought forth a monstrous birth, to the scandal of those that feared God,
 and waited daily in the temple, not made with hands, for the consolation of Israel;
-the Jew inward, and circumcision in spirit.`"
+the Jew inward, and circumcision in spirit.
 
 This people obtained the name of Ranters,
 from their extravagant discourses and practices;
@@ -1268,7 +1299,8 @@ the slavish fear of the law being taken off by Christ; and all things good that 
 if he did but do them with the mind and persuasion that it was so,
 insomuch that divers fell into gross and enormous practices,
 pretending in excuse thereof, that they could, without evil,
-commit the same act which was sin in another to do.`"
+commit the same act which was sin in another to do.
+____
 
 Their extravagancies and immoralities shocking the
 sincere seekers of pure religion amongst them,
