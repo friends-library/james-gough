@@ -1,16 +1,22 @@
 == Chapter II.
 
-George Fox travels abroad again.--State of the Nation.--A general Turn to Religion prevalent,
-and religious Opinions multiplying,
-open a freer Reception for George Fox`'s Ministry.
---His first Appearance as a Minister.--Independents
-seize the Government.--George Fox`'s first Appearance in Prayer.--Attends a public Dispute
-at Leicester--Endeavours on all Occasions to promote Righteousness.--Symptoms of Disgust
-against him begin to appear.--1. For disusing customary Modes of Salutation and Address--Other
-Causes of Offence.--Chiefly the Doctrine of him and his Friends concerning Gospel Ministry.--George
-Fox`'s first Imprisonment at Nottingham.--Removed to the Sheriff`'s House,
-and back to Prison.--His ill Treatment in other Places.--Occasion
-thereof.--Apology for it.
+[.chapter-synopsis]
+* George Fox travels abroad again
+* State of the Nation
+* A general Turn to Religion prevalent,and religious Opinions multiplying, open a freer Reception for George Fox`'s Ministry.
+* His first Appearance as a Minister
+* Independents seize the Government
+* George Fox`'s first Appearance in Prayer
+* Attends a public Dispute at Leicester--Endeavours on all Occasions to promote Righteousness
+* Symptoms of Disgust against him begin to appear
+* 1+++.+++ For disusing customary Modes of Salutation and Address
+* Other Causes of Offence
+* Chiefly the Doctrine of him and his Friends concerning Gospel Ministry
+* George Fox`'s first Imprisonment at Nottingham
+* Removed to the Sheriff`'s House, and back to Prison.
+* His ill Treatment in other Places
+* Occasion thereof
+* Apology for it
 
 It was in the year 1647 that George Fox conceived it his
 duty to leave his outward habitation a second time,
@@ -225,7 +231,7 @@ and liberty being granted for any to speak, after some time of conference and re
 a woman present put this Question, "`What birth was that which the Apostle speaks of,
 A being born again of incorruptible seed, by the word of God,
 which liveth and abidith forever?`"^
-footnote:[1 Peter 1: 23.]
+footnote:[1 Peter 1:23.]
 The priest replied, I suffer not a woman to speak in the church,
 which drew from George Fox an inquiry what he understood the Church to be, for reply,
 the priest returning the question George expressed Explains his
@@ -331,8 +337,6 @@ worship God,`" we have the sense of superior Beings
 and of divine perfection, and approach nearer thereunto than the short-lived,
 dim-sighted inhabitants of this globe, that worship,
 and the external signs thereof belong to God only.
-{footnote-paragraph-split}
-
 {footnote-paragraph-split}
 Thirdly,
 they scruple compliance with these customs because they were received
@@ -676,7 +680,9 @@ of free privilege to return to their respective parishes;
 the Scotch ministers in reply objected his opening the pulpit doors to all intruders,
 by which means a flood of errors was broken in upon the nation; to which Oliver answered,
 
-"`We look upon you as helpers of,
+[quote]
+____
+We look upon you as helpers of,
 not lords over the faith of God`'s people:--where do you find in scripture,
 that preaching is included within your function?
 Though an approbation from men has order in it, and may be well,
@@ -694,20 +700,24 @@ to give faculty to preach the Gospel.
 Your pretended fear lest error should step in,
 is like the man that would keep all the wine out of the country lest men should be drunk.
 It will be found an unjust and unwise jealousy,
-to deny a man the liberty he hath by nature, upon a supposition he may abuse it.`"
+to deny a man the liberty he hath by nature, upon a supposition he may abuse it.
+____
 
 And in answer to the governor`'s complaint that men of secular
 employments had usurped the office of the ministry,
 to the scandal of the reformed churches, he queries,
 
-"`Are you troubled that Christ is preached?
+[quote]
+____
+Are you troubled that Christ is preached?
 Doth it scandalize the reformed churches, and Scotland in particular?
 Is it against the covenant?
 away with the covenant if it be so.
 I thought the covenant and these men would have been willing
 that any should speak good of the name of Christ;
 if not, it is no covenant of God`'s approving,
-nor the kirk you mention the spouse of Christ.`"
+nor the kirk you mention the spouse of Christ.
+____
 
 By this it appears evident that a participation of the laity in ministerial offices
 was not only allowed but patronized by some of the leading men of that time.
