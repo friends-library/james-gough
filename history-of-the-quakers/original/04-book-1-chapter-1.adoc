@@ -1,4 +1,4 @@
-== CHAPTER 1
+== Chapter 1
 
 [.chapter-synopsis]
 * Birth of George Fox
@@ -24,7 +24,7 @@ treated him with particular tenderness and indulgence,
 being careful not to discourage his virtuous inclinations,
 feeling much satisfaction in these early indications of
 a pious and religious turn of mind in her son.^
-footnote:[Penn`'s Preface to George Fox`'s Journal.]
+footnote:[Penn`'s Preface to George Fox`'s [.book-title]#Journal#.]
 
 As he grew up, this seriousness and gravity grew up with him,
 and his contemplative turn of mind enlarged his understanding
@@ -33,7 +33,7 @@ insomuch that about the eleventh year of his age,
 he had clear conceptions of righteousness and purity;
 whereby he was influenced to be faithful in all things; inwardly to God,
 and outwardly to man.^
-footnote:[George Fox`'s Journal, p. 2]
+footnote:[George Fox`'s [.book-title]#Journal#, p. 2]
 The stayedness and gravity of his demeanour suggested to some of
 his relations a desire that he might be educated for the Priesthood;^
 footnote:[Ibid.]
@@ -58,7 +58,7 @@ that he must be watchfully temperate in eating and drinking,
 using the Creatures not for the gratification of a carnal appetite,
 but for the preservation of health,
 as Servants in their places to the Glory of him who created them.^
-footnote:[George Fox`'s Journal, p. 3.]
+footnote:[George Fox`'s [.book-title]#Journal#, p. 3.]
 At the same time observing in the greater number
 of those who were high in profession of religion,
 a latitude in their conduct and conversation; an indulgence in sensual gratifications;
@@ -94,7 +94,7 @@ he had recourse to several of the Priests in these parts,
 who were in repute for religious experience, to consult them,
 for their counsel and advice; but found no real benefit or help from them,
 they not being able to reach his state, or administer the relief he wanted.^
-footnote:[George Fox`'s Journal, p. 3, etc.]
+footnote:[George Fox`'s [.book-title]#Journal#, p. 3, etc.]
 
 Being disappointed in his application to these teachers,
 and finding them to him Physicians of no value,
@@ -114,7 +114,7 @@ nor formed from the inward feeling of what it stood in need of.
 He therefore turned his views toward the dissenters,
 as apprehending more tenderness and religious experience among them:
 yet he found not that satisfaction here, which he desired:^
-footnote:[George Fox`'s Journal, p. 7.]
+footnote:[George Fox`'s [.book-title]#Journal#, p. 7.]
 For being convinced that to be a true believer was a more
 arduous attainment than mankind in general apprehended,
 and that they only were such "`Who were born again`" and "`had passed from death to life:
