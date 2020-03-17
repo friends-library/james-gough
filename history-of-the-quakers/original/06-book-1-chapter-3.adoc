@@ -28,7 +28,7 @@ Being brought before about the first hour afternoon, they spent the day till the
 in examination and consultation about him,
 and then committed him and another to the house of correction,
 by the following mittimus:^
-footnote:[George Fox`'s Journal, p. 29.]
+footnote:[George Fox`'s [.book-title]#Journal#, p. 29.]
 
 [.embedded-content-document.legal]
 --
@@ -76,7 +76,6 @@ or until they shall find sufficient Security to be of good Behaviour,
 or be thence delivered by Order from ourselves.
 Hereof you are not to fail.
 
-[.signed-section-closing]
 Given under our Hands and Seals this 30th Day of October, 1650,
 
 [.signed-section-signature]
@@ -86,6 +85,8 @@ Bennet
 [.signed-section-signature]
 Nath.
 Barton
+
+--
 
 The magistrates of Nottingham appear to have imprisoned him without law,
 the magistrates of Derby would appear to commit by law;
