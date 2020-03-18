@@ -1,13 +1,16 @@
 == Chapter V
 
-George Fox goes to Swarthmore.--Lecture at Ulverston, at which George Fox preaches;
-and in Judge Fell`'s Family, who are most of them convinced.--The Judge informed,
-and alarmed thereat.--His Wife in a distressing Dilemma.--George Fox vindicateth himself
-and his Doctrines to the Judge`'s Satisfaction.--Priest Lampit endeavours to incense
-Judge Fell against George Fox in vain.--Justice Sawrey stirs up the Rabble,
-from whom George Fox and others receive violent Abuse--Instances of more violent Abuse.--Judge
-Fell issues Warrants to apprehend the Rioters.--George Fox accused of Blasphemy,
-acquitted, and encouraged to preach whereby several are convinced.
+[.chapter-synopsis]
+* George Fox goes to Swarthmore
+* Lecture at Ulverston, at which George Fox preaches; and in Judge Fell`'s Family, who are most of them convinced
+* The Judge informed, and alarmed thereat
+* His Wife in a distressing Dilemma
+* George Fox vindicateth himself and his Doctrines to the Judge`'s Satisfaction
+* Priest Lampit endeavours to incense Judge Fell against George Fox in vain
+* Justice Sawrey stirs up the Rabble, from whom George Fox and others receive violent Abuse
+* Instances of more violent Abuse
+* Judge Fell issues Warrants to apprehend the Rioters
+* George Fox accused of Blasphemy, acquitted, and encouraged to preach whereby several are convinced
 
 He next passed over to Lancashire by Cartmel and Ulverstone to Swarthmore,
 the seat of Thomas Fell, a Welch judge,
@@ -195,7 +198,7 @@ which James Lancaster observing, came to him and set him back over the water;
 and when he got off they fell on James Nayler in the like unmerciful manner.
 When George Fox landed again at Cockan he met with no better treatment,
 for the people there rose upon him with pitchforks, flails and staves, crying out,
-"`kill him;`" and after giving him much abuse,
+"`__kill him__;`" and after giving him much abuse,
 drove him some way out of the town and left him,
 after which he walked three miles to a friend`'s house named Thomas Hutton,
 where Thomas Lawson (who had been a priest, and was convinced by George Fox) lodged.
