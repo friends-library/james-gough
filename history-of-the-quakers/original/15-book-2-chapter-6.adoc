@@ -1,16 +1,21 @@
 == Chapter VI.
 
-Richard Hubbertborn,
-George Whitehead and James Lancaster imprisoned.--The two latter
-discharged.--George Whitehead violently assaulted by the Populace,
-and rescued by a Trooper.--Richard Clayton for fixing
-a Paper on the Steeple-house Door at Bures in Suffolk,
-is whipped and sent away with a Pass.--George Whitehead,
-John Harwood and George Rose committed to Bury Jail.--Indicted at the Assizes
-and fined.--Hardly used in Prison.--Released by order of Oliver Cromwell.--Account
-of James Parnell.--He travels through Huntingdonshire and Cambridgeshire into
-Essex.--His Sufferings.--His Trial.--The Judge prejudiced against him.--Used
-with great Cruelty in Prison.--Dies by his hard Treatment there.
+[.chapter-synopsis]
+* Richard Hubbertborn, George Whitehead and James Lancaster imprisoned
+* The two latter discharged
+* George Whitehead violently assaulted by the Populace, and rescued by a Trooper
+* Richard Clayton for fixing a Paper on the Steeple-house Door at Bures in Suffolk, is whipped and sent away with a Pass
+* George Whitehead, John Harwood and George Rose committed to Bury Jail
+* Indicted at the Assizes and fined
+* Hardly used in Prison
+* Released by order of Oliver Cromwell
+* Account of James Parnell
+* He travels through Huntingdonshire and Cambridgeshire into Essex
+* His Sufferings
+* His Trial
+* The Judge prejudiced against him
+* Used with great Cruelty in Prison
+* Dies by his hard Treatment there
 
 Richard Hubberthorn coming into Norfolk, at Wymondham,
 feeling a Christian concern to exhort the congregation in the steeple-house there,
@@ -127,9 +132,12 @@ On the 30th of the month called July 1655, George Whitehead,
 John Harwood and Richard Clayton passing through Buers, a town in Suffolk,
 the said Richard Clayton did fix a papers on the door of the Steeple-house there,
 being as follows, viz.^
-footnote:[George Whitehead`'s Journal, p. 60, 62]
+footnote:[George Whitehead`'s [.book-title]#Journal#, p. 60, 62]
 
-"`If you do set up such ministers as seek for their gain from their quarter,
+[.embedded-content-document.paper]
+--
+
+If you do set up such ministers as seek for their gain from their quarter,
 you set up such as the prophet Isaiah disapproves of,
 Isa. 56:11 And you that do set up such as bear rule by their means,
 you set up such as the prophet Jeremiah and this Lord disapprove, Jer.
@@ -138,11 +146,13 @@ you set up such as the prophet Ezekiel disapproves of,
 Ez. 34. And you that set up hirelings, you set up such as Micah disapproves of,
 Micah 3. And you that set up such as are called of men master,
 stand praying in the synagogues, have the chiefest places in the assemblies,
-you set up such as Christ disapproves.`"
+you set up such as Christ disapproves.
 Mat. 6 and 23. With sundry other quotations from scripture.
 
+--
+
 This paper being stuck up,^
-footnote:[George Whitehead`'s Journal, p. 67, 68]
+footnote:[George Whitehead`'s [.book-title]#Journal#, p. 67, 68]
 some people came together to read it,
 to whom George Whitehead and John Harwood gave a Christian
 exhortation to live in the fear of the Lord,
@@ -180,7 +190,7 @@ for otherwise thou canst not escape the just judgment of God.`"
 Upon this Gurdon laid hold on him, and had him before the bench,
 who demanded sureties till the next sessions, which he not complying with,
 they sent him to prison with the others.^
-footnote:[George Whitehead`'s Journal p. 69, 70]
+footnote:[George Whitehead`'s [.book-title]#Journal# p. 69, 70]
 
 On the 22nd of November Henry Marshal,
 for speaking a few words to a priest after his sermon was ended, was,
@@ -207,7 +217,7 @@ pretend to give them instruction, and exercise a kind of devotion among them:
 for which in consistency of conduct, and fruits so opposite to religion,
 being charged with hypocrisy, his daughter exclaimed,
 "`What! do you call my father a hypocrite, who hath been a saint these forty years!`"^
-footnote:[George Whitehead`'s Journal p. 80-81]
+footnote:[George Whitehead`'s [.book-title]#Journal# p. 80-81]
 But it was such saintship as his which brought too
 much of the religion of this age into disrepute.
 For these causes he was exceedingly embittered against them,
@@ -282,11 +292,15 @@ and one of the people called Quakers,
 whose prudent and exemplary conduct had gained her a respectful esteem in that family;
 their joined solicitations at last procured the following order for their release,
 after an imprisonment from twelve to fifteen months.^
-footnote:[George Whitehead`'s Journal, p. 93, 94.]
+footnote:[George Whitehead`'s [.book-title]#Journal#, p. 93, 94.]
 
-"`Thursday the 16th of October, at the Council at Whitehall.
+[.embedded-content-document.order]
+--
 
-"`Ordered, by his Highness the Lord Protector, and the Council,
+[.signed-section-context-open]
+Thursday the 16th of October, at the Council at Whitehall.
+
+Ordered, by his Highness the Lord Protector, and the Council,
 that the Quakers imprisoned at Golchester in the county of Essex,
 and Edmundsbury and Ipswich in the county of Suffolk,
 be forthwith released and set at liberty.
@@ -296,7 +310,10 @@ as also to consider how the fines set upon them, or any of them,
 and likewise to take order,
 that upon their being set at liberty they be forthwith sent to their own homes.
 
-"`W. Jessop, Clerk of the Council.`"
+[.signed-section-signature]
+W+++.+++ Jessop, Clerk of the Council.
+
+--
 
 Pursuant to this order Sir Francis Russill, who was a moderate man,
 and averse to persecution, caused them immediately to be set at full liberty,
@@ -438,7 +455,7 @@ That he had told the priest he blasphemed in saying
 the church in God was nonsense he denied not;
 but did not own himself a vagabond or idle person.
 And he did not think it either criminal or indecent to call an unjust judge unrighteous,
-a persecutor persecutor, or a deceiver deceiver.
+a _persecutor_ persecutor, or a _deceiver_ deceiver.
 
 The judge seemed to be predetermined against him, saying,
 the Lord Protector had charged him to punish such persons
