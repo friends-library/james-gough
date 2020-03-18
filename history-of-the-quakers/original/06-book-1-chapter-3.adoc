@@ -79,12 +79,10 @@ Hereof you are not to fail.
 Given under our Hands and Seals this 30th Day of October, 1650,
 
 [.signed-section-signature]
-Ger.
-Bennet
+Ger. Bennet
 
 [.signed-section-signature]
-Nath.
-Barton
+Nath. Barton
 
 --
 
@@ -197,7 +195,7 @@ turning this expression into a subject of ridicule and banter,
 in derision gave George Fox and his friends the appellation of Quakers,
 by which name this people have since that time been distinguished.^
 footnote:[Other authors have given a different account of the original of this denomination,
-but this is taken from George Fox`'s journal,
+but this is taken from George Fox`'s [.book-title]#Journal#,
 which I apprehend the only authentic account we have.
 Neale, who is followed by Mosheim,
 discovers on several occasions a very inimical bias when he speaks of this people,
@@ -365,7 +363,7 @@ and for fear of detection publicly avowed the contrary;
 and what proof or authority doth he advance in support of this disingenuous innuendo?
 truly none at all.
 Is the Chancellor of the university of Gottingen a title of such
-con sequence as to make his ipse dixit pass for a denomination,
+con sequence as to make his _ipse dixit_ pass for a denomination,
 or is the testimony of an high Dutch D.D. to whom this people were not known,
 deserving of any credit, without the clearest and most incontestible authority?
 I have not the opportunity of as intimate an acquaintance
@@ -522,7 +520,7 @@ but my love is to you as to all my fellow creatures; and my intent in writing to
 +++[+++in order]
 that you may +++[+++be incited to]
 weigh yourselves, +++[+++in the balance of sincerity and equity]
-and see how you stand, +++[+++approved in the sight of God]
+and see how you stand, +++[+++approved in the sight of God].
 
 --
 
