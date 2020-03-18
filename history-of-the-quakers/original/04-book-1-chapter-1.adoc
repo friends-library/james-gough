@@ -15,6 +15,7 @@
 George Fox was a native of Leicestershire, being born at Drayton in the Clay,
 in the said county, in the year 1624,
 of parents not considerable for their rank in the world,
+//Here's my comment.
 but Birth of respectable in their neighbourhood for piety, and integrity of life,
 who gave him a sober, although not a learned, education,
 in the way and worship of the national church: His mother especially,
