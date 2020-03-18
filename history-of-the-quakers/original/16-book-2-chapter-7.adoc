@@ -1,19 +1,25 @@
 == Chapter VII.
 
-Sufferings of William Dewsbury.--Imprisonment of him and Joseph Storr.--Examination
-before the Judges Hale and Windham.--Imprisonment of John Whitehead and
-Marmaduke Storr.--Second Examination before Judge Atkins,
-and Recommitment.--Released by Order from Oliver Cromwell.--Thomas Stubbs imprisoned.--Committed
-to Bridewell and whipped.--Edward Burroughs writes to the Protector.--Reflections on
-Cromwell`'s Conduct in regard to the People called Quakers.--Account of John Lilburn:
-1+++.+++ Prosecuted in the Star Chamber, and put in the Pillory.
-2+++.+++ Prosecuted by the Long Parliament, and acquitted.
-3+++.+++ Prosecuted by Cromwell, acquitted,
-but detained in Prison.--In Dover Castle he is convinced of the Principles of
-the People called Quakers.--Anne Downer committed to the House of Correction
-and whipped.--Miles Halhead and Thomas Salthouse taken up and passed as Vagrants.--An
-angry Priest procures their Imprisonment.--Their Examination.--Committed to Exeter
-Jail.--Indictment at Sessions.--Cruel Usage of Margaret Kellam.
+[.chapter-synopsis]
+* Sufferings of William Dewsbury
+* Imprisonment of him and Joseph Storr
+* Examination before the Judges Hale and Windham
+* Imprisonment of John Whitehead and Marmaduke Storr
+* Second Examination before Judge Atkins, and Recommitment
+* Released by Order from Oliver Cromwell
+* Thomas Stubbs imprisoned
+* Committed to Bridewell and whipped
+* Edward Burroughs writes to the Protector
+* Reflections on Cromwell`'s Conduct in regard to the People called Quakers
+* Account of John Lilburn: 1+++.+++ Prosecuted in the Star Chamber, and put in the Pillory. 2+++.+++ Prosecuted by the Long Parliament, and acquitted. 3+++.+++ Prosecuted by Cromwell, acquitted, but detained in Prison
+* In Dover Castle he is convinced of the Principles of the People called Quakers
+* Anne Downer committed to the House of Correction and whipped
+* Miles Halhead and Thomas Salthouse taken up and passed as Vagrants
+* An angry Priest procures their Imprisonment
+* Their Examination
+* Committed to Exeter Jail
+* Indictment at Sessions
+* Cruel Usage of Margaret Kellam
 
 So epidemic was the causeless inveteracy against this people;
 so general the persecution under which they suffered,
@@ -159,8 +165,8 @@ yet he left them where he found them, that is, recommitted them till the next as
 upon their refusal to put in bail for their appearance there.^
 footnote:[Their trial or examinations at large,
 would take up more room than I can conveniently spare,
-and therefore refer those who may desire further information to Besse`'s Sufferings,
-vol. 1. p. 518, etc. from whence this account is abstracted.
+and therefore refer those who may desire further information to Besse`'s [.book-title]#Sufferings,
+Vol. 1.# p. 518, etc. from whence this account is abstracted.
 The examination, however, of Francis Ellington,
 discovering the measure of justice dispensed to them all,
 will serve as a specimen of the rest: Judge.
@@ -421,17 +427,17 @@ the following abstracts whereof will convey an idea of the present temper of the
 whereby it may be perceived that adversity had proved
 a school of profitable instruction to them both.
 His wife having visited him in prison,
-soon after wrote him the following laconic admonition:
-
-"`My dear, retain a sober, patient spirit,
+soon after wrote him the following laconic admonition: "`My dear, retain a sober, patient spirit,
 which I am confident thou shalt see shall be of more force
 to recover thee than all thy keen metal hath been.
 I hope God is doing a work on thee and me too,
 that shall make us study ourselves more than we have done.`"
-
 To which he returned in answer, after other passages:
 
-"`I am deeply entered into my part.--The mighty power of God enable thee to get in too,
+[.embedded-content-document.letter]
+--
+
+I am deeply entered into my part.--The mighty power of God enable thee to get in too,
 and also go through thine, and effectually to go cheerfully and willingly along,
 hand in hand with me.--I am sorry thou art so straitly put to it for money;
 but to live upon God in faith in the depth of straits,
@@ -443,11 +449,15 @@ I can say in my present temper of spirit--It is good being here;
 for here in Dover Castle, through the lovingkindness of God, I have met with more clear,
 plain and evident knowledge of him,
 than ever I had in all my lifetime.--And now submissively and heartily I can say,
-the will of my heavenly Father be done in me, by me, and for me.`"
+the will of my heavenly Father be done in me, by me, and for me.
 
-JOHN LILBURN.
+[.signed-section-signature]
+John Lilburn.
 
+[.signed-section-context-close]
 Dover Castle, 4th 10th month 1655.
+
+--
 
 After he had lain some time in Dover Castle, Cromwell seemed inclined to release him,
 on condition of signing an engagement not to draw a sword against his Government;
@@ -459,6 +469,9 @@ he became in process of time,
 so fully convinced of the unlawfulness of war under the Gospel dispensation,
 as to make the following publication of his sentiments:
 
+[.embedded-content-document.paper]
+--
+
 That being brought to believe in his inward teacher,
 which shall never more be removed into a corner, by the teachings thereof,
 he was taught to die to sin, and to the very occasion and real grounds of outward wars,
@@ -466,7 +479,10 @@ and was therefore firmly persuaded that he should
 never thereafter use the temporal sword,
 nor join with them that did.
 
+[.signed-section-context-close]
 This paper was dated from Dover Castle, the 4th of 3rd month 1655.
+
+--
 
 He was continued a prisoner here till Cromwell`'s death,
 and then being liberated from his long confinement,
@@ -533,22 +549,27 @@ they omitted proceeding thereupon.
 At length they made out their mittimus, grounded on reasons either false or frivolous,
 or absurd.
 
+[.numbered]
 1+++.+++ As disturbers of the public peace.
 +++[+++A false charge.]
 
+[.numbered]
 2+++.+++ For divers other misdemeanors.
 +++[+++A general charge unsupported by any matter of fact.]
 
+[.numbered]
 3+++.+++ For acting against a,
 late proclamation prohibiting the disturbing of ministers
 and other Christians in their assemblies.
 +++[+++It is observe able that the meeting was of their appointment,
 and therefore the disturbance, if any, was made by their prosecutor, and not by them.]
 
+[.numbered]
 4+++.+++ For acting against an ordinance of the Lord Protector and his council,
 lately made against duels, challenges, and provocations thereunto.
 +++[+++The absurdity of this charge appears plainly at first view.]
 
+[.numbered]
 5+++.+++ For refusing to give sufficient security for their
 appearance at the next general sessions.
 +++[+++This appears to be a direct falsehood, for two of their friends,
