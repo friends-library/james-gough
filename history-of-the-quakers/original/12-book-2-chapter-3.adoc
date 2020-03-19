@@ -1,17 +1,17 @@
 == Chapter III.
 
-Sundry Friends travel abroad in the Work of the Ministry.--Francis Howgill and
-Edward Burroughs the first of this People who visited the City of London.--Francis
-Howgill intercedes with Oliver Cromwell to stop Persecution.--Meetings settled
-in London.--Francis Howgill and Edward Burrough travel to Bristol,
-and there meet with John Camm and John Audland.--Francis Howgill
-and Edward Burrough examined by the Council and ordered to depart
-out of the City.--The Mob instigated to abuse those Friends,
-which they do in a very gross Manner.--Sufferings of Elizabeth
-Heavens and Elizabeth Fletcher at Oxford.--Convincement and Sufferings
-of Barbara Blaugdon--She is imprisoned at Alarlborough,
-committed to Exeter Jail and cruelly whipped.--At Basing-Stoke
-procures the Liberty of Thomas Robertson and Ambrose Rigge.
+[.chapter-synopsis]
+* Sundry Friends travel abroad in the Work of the Ministry
+* Francis Howgill and Edward Burroughs the first of this People who visited the City of London
+* Francis Howgill intercedes with Oliver Cromwell to stop Persecution
+* Meetings settled in London
+* Francis Howgill and Edward Burrough travel to Bristol, and there meet with John Camm and John Audland
+* Francis Howgill and Edward Burrough examined by the Council and ordered to depart out of the City
+* The Mob instigated to abuse those Friends, which they do in a very gross Manner
+* Sufferings of Elizabeth Heavens and Elizabeth Fletcher at Oxford
+* Convincement and Sufferings of Barbara Blaugdon
+* She is imprisoned at Alarlborough, committed to Exeter Jail and cruelly whipped
+* At Basing-Stoke procures the Liberty of Thomas Robertson and Ambrose Rigge
 
 Meetings being settled in many parts of the northern counties,
 and with the number of professors the number of ministers proportionately increasing,
@@ -118,8 +118,8 @@ passing over the bridge toward Brislington, where they had appointed a meeting,
 were assaulted by some hundreds of the rabble,
 whose ignorant zeal had been blown up to the highest pitch of fury by one Farmer,
 a persecuting priest, and some others.
-They violently drove back the innocent strangers, some crying out, hang them presently,
-others, knock them down; and would have dragged them out of the city,
+They violently drove back the innocent strangers, some crying out, "`hang them presently,`"
+others, "`knock them down;`" and would have dragged them out of the city,
 in order to execute their wicked purpose,
 but were dissuaded by some who advised first to carry them before the mayor.
 Then they dragged them to the Tolzey, where the courts of justice are held.
