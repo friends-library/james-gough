@@ -1,11 +1,12 @@
 == Chapter VI.
 
-The Society increaseth under their Sufferings.--Sufferings of James
-Nayler.--James Nayler imprisoned for not putting off his Hat,
-and as a Vagabond;
-and Francis Howgill along with him.--James Nayler tried for Blasphemy
-and acquitted.--Note on Nicholson and Burn`'s Extract from Higginson`'s
-Memoirs.--Imprisonment of Thomas Aldam.
+[.chapter-synopsis]
+* The Society increaseth under their Sufferings
+* Sufferings of James Nayler
+* James Nayler imprisoned for not putting off his Hat, and as a Vagabond; and Francis Howgill along with him
+* James Nayler tried for Blasphemy and acquitted
+* Note on Nicholson and Burn`'s Extract from Higginson`'s Memoirs
+* Imprisonment of Thomas Aldam
 
 By patient suffering, through divine support, and the testimony of a good conscience,
 through jealous exertions of their ministerial labours, under persuasion of duty;
@@ -59,7 +60,7 @@ being brought before a justice, after an examination,
 in which they endeavoured to wrest his expressions in order to criminate him,
 he was likewise put under a guard, and next day, together with James Nayler,
 sent to Appleby jail.^
-footnote:[Besse`'s Suffering of the Quakers, vol. 2. p. 2]
+footnote:[Besse`'s [.book-title]#Suffering of the Quakers#, vol. 2. p. 2]
 
 At the sessions held in Appleby in the month blasphemy, called January, 1652,
 James Nayler was tried on an indictment for blasphemy; but after a long examination,
@@ -124,7 +125,7 @@ may perhaps be inferred from this anecdote.
 "`The evidence of Higginson carries with it
 all the marks of that wanton exaggeration which characterises personal animosity.
 The charge is supported by no proof.
-Gerard Croese, indeed, in his History of the Quakers,
+Gerard Croese, indeed, in his [.book-title]#History of the Quakers#,
 mentions a petition from the ministers, and sundry other persons of Lancashire,
 against George Fox, James Nayler, and their associates,
 in which they are accused of foaming at the mouth in their conventicles,
