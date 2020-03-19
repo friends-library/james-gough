@@ -1,16 +1,22 @@
 == Chapter II.
 
-George Fox travels abroad again.--State of the Nation.--A general Turn to Religion prevalent,
-and religious Opinions multiplying,
-open a freer Reception for George Fox`'s Ministry.
---His first Appearance as a Minister.--Independents
-seize the Government.--George Fox`'s first Appearance in Prayer.--Attends a public Dispute
-at Leicester--Endeavours on all Occasions to promote Righteousness.--Symptoms of Disgust
-against him begin to appear.--1. For disusing customary Modes of Salutation and Address--Other
-Causes of Offence.--Chiefly the Doctrine of him and his Friends concerning Gospel Ministry.--George
-Fox`'s first Imprisonment at Nottingham.--Removed to the Sheriff`'s House,
-and back to Prison.--His ill Treatment in other Places.--Occasion
-thereof.--Apology for it.
+[.chapter-synopsis]
+* George Fox travels abroad again
+* State of the Nation
+* A general Turn to Religion prevalent,and religious Opinions multiplying, open a freer Reception for George Fox`'s Ministry
+* His first Appearance as a Minister
+* Independents seize the Government
+* George Fox`'s first Appearance in Prayer
+* Attends a public Dispute at Leicester--Endeavours on all Occasions to promote Righteousness
+* Symptoms of Disgust against him begin to appear
+* 1+++.+++ For disusing customary Modes of Salutation and Address
+* Other Causes of Offence
+* Chiefly the Doctrine of him and his Friends concerning Gospel Ministry
+* George Fox`'s first Imprisonment at Nottingham
+* Removed to the Sheriff`'s House, and back to Prison
+* His ill Treatment in other Places
+* Occasion thereof
+* Apology for it
 
 It was in the year 1647 that George Fox conceived it his
 duty to leave his outward habitation a second time,
@@ -74,7 +80,7 @@ a more perfect reformation:
 and several of them evidenced the sincerity of their
 piety by circumspect and virtuous lives,
 the criterion whereby only men can safely judge of each other.
-By their fruits shall ye know them.
+_By their fruits shall ye know them._
 The persecution and sufferings to which their dissent exposed
 them may be considered also as a test of sincerity;
 for what man would incur certain evil, but in prospect of greater good?
@@ -225,8 +231,8 @@ and liberty being granted for any to speak, after some time of conference and re
 a woman present put this Question, "`What birth was that which the Apostle speaks of,
 A being born again of incorruptible seed, by the word of God,
 which liveth and abidith forever?`"^
-footnote:[1 Peter 1: 23.]
-The priest replied, I suffer not a woman to speak in the church,
+footnote:[1 Peter 1:23.]
+The priest replied, I suffer not a woman to speak in the _church_,
 which drew from George Fox an inquiry what he understood the Church to be, for reply,
 the priest returning the question George expressed Explains his
 his Idea thereof "`That it was neither a building of lime and stones,
@@ -234,7 +240,7 @@ nor a mixed multitude assembled together; but the pillar and ground of truth,
 a spiritual building composed of living stones, a spiritual household,
 which Christ was the head of.`"
 This, he writes, set them all on fire, and the dispute was marred.^
-footnote:[George Fox`'s Journal, p. 15.]
+footnote:[George Fox`'s [.book-title]#Journal#, p. 15.]
 I own myself at a loss to discover anything in these expressions,
 (which are mostly scriptural) to provoke any reasonable
 person to the least degree of resentment,
@@ -332,8 +338,6 @@ and of divine perfection, and approach nearer thereunto than the short-lived,
 dim-sighted inhabitants of this globe, that worship,
 and the external signs thereof belong to God only.
 {footnote-paragraph-split}
-
-{footnote-paragraph-split}
 Thirdly,
 they scruple compliance with these customs because they were received
 (amongst many other gross corruprtions of Christianity) through
@@ -359,14 +363,14 @@ he felt himself circumscribed from adopting the prevailing deviation from the
 original propriety and simplicity of language in using you to a single person,
 or giving customary compliments, or flattering titles, and accordingly,
 under persuasion of duty,
-addressed individuals of every rank with the singular appellation of thou or thee,
+addressed individuals of every rank with the singular appellation of _thou_ or _thee_,
 without respect of persons.^
 footnote:[Their declining the use of you to a single
 person is grounded upon the like reason,
 the vulgar custom being derived from the same polluted source.
 In the scriptures throughout, in all the ancient languages,
 and to this day in our addresses to our maker,
-the proper singular thou and thee are used in speaking to one.
+the proper singular _thou_ and _thee_ are used in speaking to one.
 The first instance of a deviation from this grammatical propriety, that I have met with,
 occurs in the last stages of the decline of the Roman empire,
 in the reign of Valentinian and Valens,
@@ -374,12 +378,12 @@ between three and four hundred years after the commencement of the Christian era
 Eutropius addresseth to Valens,
 vestra tranquillitas +++[+++your tranquillity]. And the
 same author dedicated his work to the same Emperor,
-with the following extravagant epithets: Domino Valenti Gothito maximo, perpetun,
+with the following extravagant epithets: _Domino Valenti Gothito maximo, perpetun,
 augusto.
 To Lord Valens Gothic, the most mighty, everlasting,
-and august.(97) R. Barclay quotes from the Epistles
+and august._ R. Barclay quotes from the Epistles
 of Symmachus to the Emperors Theodosius and Valentinian,
-these forms of address: Vestra eternitds; your eternity, Vistrum numen, your Godhead.
+these forms of address: _Vestra eternitds; your eternity, Vistrum numen, your Godhead._
 So this mode of addressing one as many, oweth its origin to the Gentiles,
 who knew not God; to sycophants,
 who racked their invention for absurd and extravagant terms of adulation to their Emperors,
@@ -496,7 +500,7 @@ George Fox feeling, as he apprehended,
 a divine power opening his understanding into a clearer
 conception of the meaning of the text,
 and an authority to express his sense thereof,
-signified that this sure word of prophecy was not the scriptures, but the holy spirit,
+signified that this _sure word_ of prophecy was not the scriptures, but the holy spirit,
 by which holy men gave forth the scriptures,
 whereby (as the surest interpreter of them) opinions,
 religions and judgments were to be tried: For it led men into all truth.
@@ -529,12 +533,12 @@ for although he was ordered to be taken before the judge,
 the officer was so dilatory in obeying the order
 that the court was broken up before he got thither,
 at which the judge expressed his displeasure, signifying,
-he would have admonished the youth, if he had been brought before him.
+_he would have admonished the youth, if he had been brought before him._
 This backwardness in giving him an opportunity of being tried or discharged,
 appears to me a tacit confession that the magistrates were sensible,
 they had no legal cause for imprisoning him; yet they ordered him into the common jail,
 and detained him there some time longer.^
-footnote:[Daniel Neale, in his history of the Puritans, vol.
+footnote:[Daniel Neale, in his [.book-title]#History of the Puritans#, vol.
 II. p. 399, etc. giving an account of the first rise of the Quakers,
 amongst other instances of a partial bias, either by oversight or design,
 gives a very palliative narration of George Fox`'s imprisonment there, not strictly true.
@@ -626,7 +630,7 @@ designed to promote peace on earth and good will to men, than profaneness or imm
 With much difficulty he reached the distance of about a mile from the town,
 where he met with some people humane enough to administer some cordials for his ease,
 being inwardly bruised.^
-footnote:[George Fox`'s Journal, p. 26.]
+footnote:[George Fox`'s [.book-title]#Journal#, p. 26.]
 At Market Bosworth he was also stoned out of the town:
 and at Chesterfield he was detained in custody till late at night,
 and then put out of the town by officers and watchmen,
@@ -676,7 +680,9 @@ of free privilege to return to their respective parishes;
 the Scotch ministers in reply objected his opening the pulpit doors to all intruders,
 by which means a flood of errors was broken in upon the nation; to which Oliver answered,
 
-"`We look upon you as helpers of,
+[quote]
+____
+We look upon you as helpers of,
 not lords over the faith of God`'s people:--where do you find in scripture,
 that preaching is included within your function?
 Though an approbation from men has order in it, and may be well,
@@ -694,20 +700,24 @@ to give faculty to preach the Gospel.
 Your pretended fear lest error should step in,
 is like the man that would keep all the wine out of the country lest men should be drunk.
 It will be found an unjust and unwise jealousy,
-to deny a man the liberty he hath by nature, upon a supposition he may abuse it.`"
+to deny a man the liberty he hath by nature, upon a supposition he may abuse it.
+____
 
 And in answer to the governor`'s complaint that men of secular
 employments had usurped the office of the ministry,
 to the scandal of the reformed churches, he queries,
 
-"`Are you troubled that Christ is preached?
+[quote]
+____
+Are you troubled that Christ is preached?
 Doth it scandalize the reformed churches, and Scotland in particular?
 Is it against the covenant?
 away with the covenant if it be so.
 I thought the covenant and these men would have been willing
 that any should speak good of the name of Christ;
 if not, it is no covenant of God`'s approving,
-nor the kirk you mention the spouse of Christ.`"
+nor the kirk you mention the spouse of Christ.
+____
 
 By this it appears evident that a participation of the laity in ministerial offices
 was not only allowed but patronized by some of the leading men of that time.
