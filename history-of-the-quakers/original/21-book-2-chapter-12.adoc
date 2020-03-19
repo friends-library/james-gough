@@ -1,13 +1,15 @@
 == Chapter XII.
 
-=== WALES.
+=== Wales
 
-Morgan Floyd, Priest of Wrexham,
-sends two of his Congregation to make Inquiry after the People called Quakers,
-when one of them, "`John Ap John, is convinced.--He is abused by a Priest,
-and imprisoned.--Thomas Holmes travels in Wales.--George Fox visits
-Wales.--Is rudely treated at Brecknock.--Many convinced.--Sufferings
-of this People in this Principality.
+[.chapter-synopsis]
+* Morgan Floyd, Priest of Wrexham, sends two of his Congregation to make Inquiry after the People called Quakers, when one of them, John Ap John, is convinced
+* He is abused by a Priest, and imprisoned
+* Thomas Holmes travels in Wales
+* George Fox visits Wales
+* Is rudely treated at Brecknock
+* Many convinced
+* Sufferings of this People in this Principality
 
 In the year 1653, while George Fox and his,
 fellow-labourers were yet employing their ministerial
@@ -97,7 +99,7 @@ particularly the sufferings of John-ap-John and Elizabeth Holmes,
 yet to avoid prolixity on a subject everywhere supplying abundant matter for reflection,
 I pass on to
 
-=== SCOTLAND.
+=== Scotland
 
 The earliest meetings of the people called Quakers
 in Scotland were held about the year 1653;
@@ -183,14 +185,20 @@ In October 1657, George Fox was at Edinburgh,
 where he was summoned to appear before the council, who sent an officer to his inn,
 with the following order, viz.
 
-"`Tuesday, the 8th of October 1 657, at his Highness`'s council in Scotland.
+[.embedded-content-document.legal]
+--
 
-"`Ordered,
+Tuesday, the 8th of October 1657, at his Highness`'s council in Scotland.
+
+Ordered,
 that George Fox do appear before Order of the council
 on Tuesday the 15th of October next,
 in the forenoon.
 
-"`E. Downing, clerk of the council.`"
+[.signed-section-signature]
+E+++.+++ Downing, clerk of the council.
+
+--
 
 He appeared accordingly, and after examination,
 they told him that he must depart the nation if Scotland by that day sevennight.
@@ -206,7 +214,8 @@ was carried above the fear of man in discharging it;
 and a peculiar hand of Providence was sometimes visible
 in the manner of his deliverance.
 
-=== ISLE OF MAN.
+[.oldstyle]
+=== Isle of Man
 
 The magistrates of this island being early prepossessed with prejudice
 against the Quakers (so called) and their doctrine,

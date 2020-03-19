@@ -1,14 +1,18 @@
 == Chapter XI.
 
-Applications continued to Richard Cromwell,
-but without Success.--Friends violently abused by the Populace.--The Nation in
-great Commotion.--George Fox writes a Caution.--Account of Friends Sufferings
-presented to the Parliament.--Remarkable Proposal of a number of Friends to the
-Parliament.--The Quakers so called invited to take up Arms.--George Fox cautions
-against it.--General Monk`'s Order to his Soldiers not to molest the Meetings
-of this People.--Account of their suffering in Property,
-especially for their Testimony against Tithes.--Specified
-in various Cases.--Remarks upon Tithes, etc.
+[.chapter-synopsis]
+* Applications continued to Richard Cromwell, but without Success
+* Friends violently abused by the Populace
+* The Nation in great Commotion
+* George Fox writes a Caution
+* Account of Friends Sufferings presented to the Parliament
+* Remarkable Proposal of a number of Friends to the Parliament
+* The Quakers so called invited to take up Arms
+* George Fox cautions against it
+* General Monk`'s Order to his Soldiers not to molest the Meetings of this People
+* Account of their suffering in Property, especially for their Testimony against Tithes
+* Specified in various Cases
+* Remarks upon Tithes, etc.
 
 The same fraternal compassion for the hardships sustained by their suffering brethren,
 which had animated several of this community to make repeated applications
@@ -58,7 +62,7 @@ crying out, "`down with her,
 down with her,`" which his cruel comrades effectually performed, for they beat, bruised,
 and struck her on the breast so cruelly, that within seven days after she died.
 Besse,
-vol 1. p. 304.
+Vol 1. p. 304.
 {footnote-paragraph-split}
 On the
 7th of the month called June was a meeting at London,
@@ -375,8 +379,8 @@ of their imprisonment as several of their brethren had done,
 whereby they demonstrated the perfection of christian charity amongst themselves,
 and left their oppressors without excuse,
 although their offer was rejected with some marks of resentment.^
-footnote:[I find Macauley`'s Hist.
-Ann 1659 the following note: "`Even so early as the commencement of the last parliament,
+footnote:[I find Macauley`'s [.book-title]#Hist.
+Ann 1659# the following note: "`Even so early as the commencement of the last parliament,
 when the bill for recognizing Richard was in debate,
 a petition in favour of a republic was presented
 to the house by a formidable body of citizens;
@@ -421,11 +425,15 @@ they had the good sense to discern the selfish views
 and partial politics of all these par ties,
 under the disguise of plausible professions, and that all were guilty of palpable errors:
 {footnote-paragraph-split}
+
+[verse]
+____
 Seditione, dolis,
 scelere atque libidine & Ira Iliacos intra muros peccatur; & extra.
 {footnote-paragraph-split}
 In factious deeds, deceit or lust or rage,
 Republicans and royalists engage.]
+____
 
 Commotions still continued in the nation.
 The royalists, meditated a general insurrection, and George Booth, in Cheshire,
@@ -462,13 +470,20 @@ which met with better success than similar applications
 to those in authority before had generally done,
 as it produced the following order.
 
-"`St. James`'s, March 9th, 1659.
+[.embedded-content-document.legal]
+--
 
-"`I do require all officers and soldiers to forbear
+[.signed-section-context-open]
+St. James`'s, March 9th, 1659.
+
+I do require all officers and soldiers to forbear
 to disturb the peaceable meetings of the Quakers,
-they doing nothing prejudicial to the parliament or commonwealth of England`"
+they doing nothing prejudicial to the parliament or commonwealth of England.
 
-"`George Monk.`"
+[.signed-section-signature]
+George Monk.
+
+--
 
 Besides the personal injuries they suffered,
 to which I have hitherto chiefly confined myself,
@@ -499,7 +514,7 @@ and then removed by Habeas Corpus to the Fleet, London; While there,
 the priest his prosecutor, with bailiffs,
 made a seisure of his corn and cattle to the value
 of near 100£. all for one year`'s tithe,
-for which the former occupier of the same farm told Cole he used to pay but 61.
+for which the former occupier of the same farm told Cole he used to pay but 6£.
 
 John Richmond suffered distress of his cattle the
 value of 40£. for 8£. demanded for tithe.
@@ -517,8 +532,8 @@ During their imprisonment the prosecutor took away three
 cows from the former and six from the latter of them.
 
 William Wooley was prosecuted in the Exchequer for tithes of but 6d. value.
-Rachel True- man was sued in the Hundred Court,
-and for 1os. demanded for tithes had a cow taken from her worth 5£.
+Rachel Trueman was sued in the Hundred Court,
+and for 10s. demanded for tithes had a cow taken from her worth 5£.
 
 John Tyler of Frampton Cotterel, sued by his parish priest for tithe of about 20s. value,
 was adjudged by the court to pay 10£. 10s. besides 3£. 10s. costs he had been put to.
@@ -562,7 +577,7 @@ He was also sued by the priest of the parish in the
 Exchequer for small tithes at the same time.
 
 Edward Muggleston, after a prosecution in the Exchequer for tithes,
-was committed to pri1656. son at, Leicester.
+was committed to prison at, Leicester.
 While he lay there his son was prosecuted for the same tithe,
 though known to be but a servant to his father.
 
@@ -602,6 +617,7 @@ where, through the extreme hardship he endured, he contracted a sickness,
 of which he there died.
 
 In this year were taken for tithes,
+// This looks a little funny in the PDF, and I tried an offset, but that didn't look right either. 
 
 From William Driver of Tremlic, for 1£ 14s. demanded,
 goods worth --12£ From Thomas Pinson of Ditto, for 14£ 1s. demanded,
