@@ -1,12 +1,16 @@
 == Chapter VIII.
 
-Imprisonment of G. Fox,
-Edward Pyott and William Salt in Launceston Jail--Their Trial before Judge Glyn.--P.
-Ceely accuseth G. Fox of Treason.--Who refutes the Accusation.--They are fined and recommitted
-to Prison in Doomsdale.--The suffices at the Sessions at Bodmin order the Dungeon to
-be cleansed.--A Friend offers himself to lie in Prison in G. Fox`'s stead.--Thomas Lower
-convinced.--The Prisoners discharged by an Order from Major General Desborrow.--The
-Imprisonment of these Friends conducive to spread their Principles.
+[.chapter-synopsis]
+* Imprisonment of G. Fox, Edward Pyott and William Salt in Launceston Jail
+* Their Trial before Judge Glyn
+* P. Ceely accuseth G. Fox of Treason
+* Who refutes the Accusation
+* They are fined and recommitted to Prison in Doomsdale
+* The suffices at the Sessions at Bodmin order the Dungeon to be cleansed
+* A Friend offers himself to lie in Prison in G. Fox`'s stead
+* Thomas Lower convinced
+* The Prisoners discharged by an Order from Major General Desborrow
+* The Imprisonment of these Friends conducive to spread their Principles
 
 A short while before the beginning of the year 1656,
 G+++.+++ Fox from London travelled westward.
@@ -30,12 +34,16 @@ which had been given to the Protector;
 they were all three nevertheless sent to prison under
 a guard of horse with the following mittimus:
 
-"`Peter Ceely, one of the justices of the peace of this county,
+[.embedded-content-document.legal]
+--
+
+Peter Ceely, one of the justices of the peace of this county,
 to the keeper of his highness`'s jail at Launceston, or his lawful deputy in that behalf,
 
-greeting.
+[.salutation]
+Greeting.
 
-"`I send you herewithal, by the bearer hereof, the bodies of Edward Pyott of Bristol,
+I send you herewithal, by the bearer hereof, the bodies of Edward Pyott of Bristol,
 and George Fox of Drayton and Clea in Leicestershire, and William Salt of London,
 which they pretend to be the places of their habitations,
 who go under the notion of Quakers, and acknowledge themselves, to be such,
@@ -54,7 +62,10 @@ Hereof fail not, as you will answer the contrary at your peril.
 
 Given under my hand and seal at Saint Ives the eighteenth day of January, 1655.
 
+[.signed-section-signature]
 P+++.+++ Ceely.
+
+--
 
 By this mittimus it is evident on what vague pretences
 the Quakers (so called) were committed to prison;
@@ -259,7 +270,7 @@ no less than their religion, consisted more in specious pretensions,
 than in a clear comprehension of the principles of real liberty,
 and a practice regulated thereby.^
 footnote:[We have a curious account in Thomas Elwood`'s
-journal of the manner of his being taken up,
+[.book-title]#Journal# of the manner of his being taken up,
 and the treatment he met with: Calling at Isaac Penington`'s, in his return from London,
 and designing to proceed home into Oxfordshire,
 his friend kindly accommodating him with a horse as far as he might choose,
