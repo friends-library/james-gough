@@ -1,15 +1,21 @@
-== Chapter XIV. NEW ENGLAND.
+== Chapter XIV. New England.
 
-Discovery of North-America.--First Planters of New-England.
---John Robinson`'s Farewell-Admonition.--Emigrations
-multiply in the Reign of Charles I.--Reflection on the Spirit of these Colonists.--Roger
-Williams banished for his religious Opinions.--Schism at Boston.--Synod convened to
-decide upon it.--John Wheelwright summoned before the Court,
-disfranchised and banished.--John Coggeshal disfranchised.--Ann
-Hutchinson adopts Antinomian Opinions;
-summoned before the Court and condemned to Banishment;
-murdered by the Indians.--Some of the People professing Anabaptism are persecuted,--Three
-of them committed to Prison.--Law against Anabaptists.
+[.chapter-synopsis]
+* Discovery of North-America.--First Planters of New-England
+* John Robinson`'s Farewell-Admonition
+* Emigrations multiply in the Reign of Charles I
+* Reflection on the Spirit of these Colonists
+* Roger Williams banished for his religious Opinions
+* Schism at Boston
+* Synod convened to decide upon it
+* John Wheelwright summoned before the Court, disfranchised and banished
+* John Coggeshal disfranchised
+* Ann Hutchinson adopts Antinomian Opinions
+* Summoned before the Court and condemned to Banishment
+* Murdered by the Indians
+* Some of the People professing Anabaptism are persecuted
+* Three of them committed to Prison
+* Law against Anabaptists
 
 In order more fully to elucidate this part of the history,
 it seems not improper to take a retrospective view of the
@@ -87,13 +93,16 @@ but as their pastor did not live to join them,
 it seems as if the good man and his admonitions were too soon forgotten; although,
 from the christian temper that animates them, well worthy of remembrance.
 
-"`Brethren, (says he) we are now quickly to part from one another,
+[quote]
+____
+
+Brethren, (says he) we are now quickly to part from one another,
 and whether I may ever live to see your faces on earth, the God of heaven only knows;
 but whether the Lord hath appointed that, or no,
 I charge you before God and his blessed angels,
 that you follow me no farther than you have seen me follow the Lord Jesus Christ.
 
-"`If God reveal any thing to you by any other instrument of his,
+If God reveal any thing to you by any other instrument of his,
 be as ready to receive it, as ever you were to receive any truth by my ministry;
 for I am verily persuaded, I am very confident,
 the Lord has more truth yet to break forth out of his holy word.
@@ -105,7 +114,7 @@ whatever part of his will our great God has revealed to Calvin,
 they will rather die than embrace it; and the Calvinists, you see,
 stick fast where they were left by that great man, who yet saw not all things.
 
-"`This is a misery much to be lamented;
+This is a misery much to be lamented;
 for though they were burning and mining lights in their times,
 yet they penetrated not into the whole counsel of God;
 but were they now living would be as willing to embrace further light,
@@ -121,9 +130,10 @@ for it is not possible the christian world should
 come so lately out of such thick antichristian darkness,
 and that perfection of knowledge should break forth at once.
 
-"`I must also advise you to abandon, avoid and shake off the name of Brownists:
+I must also advise you to abandon, avoid and shake off the name of Brownists:
 Tis a mere nickname; and a brand for the making religion, and the professors of it,
-odious to the christian world.`"
+odious to the christian world.
+____
 
 These first settlers with their families made about one hundred in number,
 and having taken shipping from Plymouth,
@@ -236,7 +246,7 @@ That magistrates had nothing to do with matters of the first table, but the seco
 that there should be an unlimited toleration for all religions,
 and to punish men for matters of conscience was persecution.`"
 I see nothing in these opinions deserving banishment or even censure.
-Neale`'s history of New-England, vol 1. p. 159.]
+Neale`'s [.book-title]#History of New-England, Vol 1.# p. 159.]
 In the year 1637 a more extensive schism broke out,
 which divided 16 the inhabitants of Boston and the adjacent country into two parties,
 under the denominations Boston, of Antinomians and Legalists,
@@ -409,7 +419,10 @@ signifying they could not join with them in their service,
 they were next day brought before a magistrate,
 who committed them to Boston prison by the following mittimus:
 
-"`By virtue hereof you are required to take into
+[.embedded-content-document.legal]
+--
+
+By virtue hereof you are required to take into
 your custody from the constable Lynn or his deputy,
 the bodies of John John Clarke, Obadiah Holmes and John Crandall,
 and them to keep until the next county prison court to be held at Boston,
@@ -428,9 +441,13 @@ as also for neglecting or refusing to give in sufficient
 security for their appearance at the said court.
 Hereof fail not at your peril.
 
+[.signed-section-context-close]
 22nd of the 5th month, 1651
 
-"`Robert Bridges.`"
+[.signed-section-signature]
+Robert Bridges.
+
+--
 
 In a short time after their commitment they were brought before the court and fined,
 viz. John Clarke 20£. John Crandall 5£. and Obadiah Holmes 30£+++.+++;
@@ -463,7 +480,10 @@ violating the natural rights of mankind, and punishing men, not for disturbing t
 but merely for differing in their sentiments of religion, of which the following law,
 enacted at this time and on this occasion, is a confirming evidence:
 
-"`It is ordered by this court and authority thereof,
+[.embedded-content-document.legal]
+--
+
+It is ordered by this court and authority thereof,
 that if any person or persons within this jurisdiction shall
 either openly condemn or oppose the baptizing of infants,
 or go about secretly to seduce others from the approbation or use thereof,
@@ -473,4 +493,6 @@ or their lawful right or authority to make war or
 punish the outward breaches of the first table,
 and shall appear to the court willfully and obstinately
 to continue therein after due means of conviction,
-every such person or persons shall be sentenced to banishment.`"
+every such person or persons shall be sentenced to banishment.
+
+--
