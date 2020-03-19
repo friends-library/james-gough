@@ -1,9 +1,11 @@
 == Chapter II.
 
-Oliver Cromwell declared Protector.
---Which is of no Advantage to the People called Quakers.--Pretext
-for Persecution.--Remark upon the Benevolence and mutual Affection of the Quakers,
-so called.--Their Prosperity in Commerce by Means of fair Dealing.
+[.chapter-synopsis]
+* Oliver Cromwell declared Protector
+* Which is of no Advantage to the People called Quakers
+* Pretext for Persecution
+* Remark upon the Benevolence and mutual Affection of the Quakers, so called
+* Their Prosperity in Commerce by Means of fair Dealing
 
 The short parliament, commonly called Barebone`'s,
 having resigned their power back into the hands of Oliver Cromwell,
@@ -103,4 +105,4 @@ the unskilful customer being sure to be treated with as much justice as the most
 their tried integrity begat general confidence,
 and that confidence brought them a great resort of customers,
 so that they prospered greatly in their outward affairs, and verified the proverb,
-that honesty is the best policy.
+that _honesty is the best policy._
