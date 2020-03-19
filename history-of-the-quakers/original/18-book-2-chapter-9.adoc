@@ -1,19 +1,31 @@
 == Chapter IX.
 
-New Parliament.--Samuel Fisher attempts to deliver a Message to the Protector,
-Parliament and People.--Being prevented he publishes it in print.
-The Parliament passth an Act against Vagrants,
-which seems designed against the People called Quakers.--Sufferings
-of several Persons of that Denomination.--Account of James Nayler.--He
-comes to London.--Martha Simmonds`'s Complaint to J. Nayler at first
-rejected by him.--After wards her passionate Sorrow makes an Impression,
-darkening his Understanding.--He is reproved by G. Fox,
-but flights his Admonition.--He is taken up at Bristol and committed to Prison.--Sent
-up to the Parliament.--His Sentence.--Remarks thereupon.--Ineffectual Petition in his
-Favour.--First Part of his Sentence executed.--Second petition--Rejected--J. Nayler
-visited by five Preachers.--Execution of the second Part of his Sentence.--He is sent
-to Bristol and whipped there.--His Recantation.--Taken ill and dies.--Reflection upon
-his Case--Account of John Camm.
+[.chapter-synopsis]
+* New Parliament
+* Samuel Fisher attempts to deliver a Message to the Protector, Parliament and People
+* Being prevented he publishes it in print
+* The Parliament passeth an Act against Vagrants, which seems designed against the People called Quakers
+* Sufferings of several Persons of that Denomination
+* Account of James Nayler
+* He comes to London
+* Martha Simmonds`'s Complaint to J. Nayler at first rejected by him
+* Afterwards her passionate Sorrow makes an Impression, darkening his Understanding
+* He is reproved by G. Fox, but flights his Admonition
+* He is taken up at Bristol and committed to Prison
+* Sent up to the Parliament
+* His Sentence
+* Remarks thereupon
+* Ineffectual Petition in his Favour
+* First Part of his Sentence executed
+* Second petition
+* Rejected
+* J. Nayler visited by five Preachers
+* Execution of the second Part of his Sentence
+* He is sent to Bristol and whipped there
+* His Recantation
+* Taken ill and dies
+* Reflection upon his Case
+* Account of John Camm
 
 It was about this time the Protector thought it necessary
 to convoke a parliament to sit on the 17th September,
@@ -217,9 +229,13 @@ was delivered to the constable with this charge from R. Gurden,
 to see it executed upon him to purpose at his peril.
 The copy of the warrant followeth, viz.
 
-"`To all Constables, and all whom it may concern, and every of them.`"
+[.embedded-content-document.legal]
+--
 
-"`Be it remembered, That one George Whitehead, a young man of about twenty years of age,
+[.letter-heading]
+To all Constables, and all whom it may concern, and every of them.
+
+Be it remembered, that one George Whitehead, a young man of about twenty years of age,
 who confesseth himself to have been born at Orton in Westmoreland,
 being this present day found a vagrant, and wandering at Nayland in this county,
 contrary to the laws of this nation, and being thereupon brought before us,
@@ -230,7 +246,9 @@ and he is to pass thence from parish to parish by
 the officers thereof the next way to Orton aforesaid,
 before the first day of June now next ensuing.
 
-"`Dated at Arlington in this county of Suffolk the first day of April 1657.`"
+Dated at Arlington in this county of Suffolk the first day of April 1657.
+
+--
 
 The warrant was the next day put in execution,
 with such severity as displayed the malignancy,
@@ -434,9 +452,9 @@ So after I had been warring with the world,
 there was now a wicked spirit risen up amongst friends to war against.
 And when he came to London, his resisting the power of God in me,
 and the truth that was declared to him by me, became one of his greatest burdens.
-George Fox`'s journal, octavo, vol.1, p. 374.]
+George Fox`'s [.book.title]#journal#, octavo, Vol.1, p. 374.]
 where he was a prisoner at the time of George Fox`'s release,
-who upon the the night of his arrival at that city visited his friends in prison there,
+who upon the night of his arrival at that city visited his friends in prison there,
 and James Nayler in particular,
 to admonish him of the delusion and danger he and his partisans were fallen into;
 being impressed with a sorrowful sense of their error:
@@ -489,7 +507,10 @@ After the sentence, he seemed desirous to have spoken something,
 but was refused the liberty: he then just expressed himself with a composed mind,
 "`I pray God, he may not lay it to your charge.`".]
 
-"`That James Nayler be set on the pillory, with his head in the pillory,
+[.embedded-content-document.legal]
+--
+
+That James Nayler be set on the pillory, with his head in the pillory,
 in the palace-yard Westminster, during the space of two hours on Thursday next,
 and be whipped by the hangman through the streets from Westminster to the Old Exchange,
 London, and there likewise be set on the pillory, with his head in the pillory,
@@ -504,7 +525,9 @@ and that from thence he be committed to prison, in Bridewell, London,
 and there restrained from the society of all people, and there to labour hard,
 till he shall be released by parliament,
 and during that time be debarred the use of "`pen, ink and paper,
-and shall have no relief but what he earns by his daily labour.`"
+and shall have no relief but what he earns by his daily labour.
+
+--
 
 The prosecutions and punishments of the Starchamber in the last reign,
 as being exorbitant and unreasonably barbarous, excited general disgust and indignation;
@@ -522,20 +545,29 @@ in famous court passed upon Leighton for his book called,
 Zion`'s Plea against Prelacy.
 And the poignant censure of a late historian on the latter,
 may with little impropriety be applied to the other also.^
+// Do you want Vol II italicized below for Macaulay's book?
 footnote:[For a comparative view of the similarity of the two sentences,
-fee that passed upon Leighton in the above quoted author, viz. Macaulay, vol.
+fee that passed upon Leighton in the above quoted author,
+
+viz. Macaulay, Vol.
 II. p. 93.]
 
-"`Notwithstanding all that may be said against the conduct of this unfortunate enthusiast,
+[.embedded-content-document]
+--
+
+Notwithstanding all that may be said against the conduct of this unfortunate enthusiast,
 his offence was by no means adequate to his punishment;
 his treatment and prosecution notoriously inhuman and illegal.
 The judgment passed against him was by an illegal court,
 whose jurisdiction was unconstitutional;^
 footnote:[The House of Commons by the constitution is no court of judicature,
 nor hath any power to inflict any other punishment than imprisonment during their
-session.]--was directly contrary to the humane spirit of the British laws;
+session.]
+--was directly contrary to the humane spirit of the British laws;
 and the single instance of such an execrable barbarity would have
-disgraced the government of an absolute monarch.`"
+disgraced the government of an absolute monarch.
+
+--
 
 Many people (not of the society of Quakers) esteeming
 the sentence passed upon Nayler exorbitantly severe,
@@ -570,7 +602,10 @@ interposed in his favour by petition to the parliament,
 and obtained a respite of one week,
 during which interval a second petition was presented in the following terms.
 
-"`Your moderation and clemency in respiting second the punishment of James Nayler,
+[.embedded-content-document]
+--
+
+Your moderation and clemency in respiting second the punishment of James Nayler,
 in consideration of his illness of body,
 hath refreshed the hearts of many thousands in these cities,
 altogether unconcerned in his practice: wherefore we most humbly beg your pardon,
@@ -579,9 +614,11 @@ that you would remit the remaining part of your sentence against the said James 
 leaving him to the Lord, and to such gospel remedies, as he hath sanctified;
 and we are persuaded you will find such a course
 of love and forbearance more effectual to reclaim,
-and will leave a zeal of your love and tenderness upon our spirits.`"
+and will leave a zeal of your love and tenderness upon our spirits.
 
-"`And we shall pray, etc.`"
+And we shall pray, etc.
+
+--
 
 This petition, replete with good sense and humanity,
 was presented to the house by about an hundred persons on behalf of the subscribers,
@@ -624,7 +661,7 @@ Whereupon they rose up in a rage, burned what they had written,
 and left him to undergo every jot and tittle of his unmerciful sentence.
 
 At the expiration of his respite, on the 27th of December,
-the second part of his sentence Execution was executed upon him.
+the second part of his sentence was executed upon him.
 There was one Robert Rich, a zealous partisan of his, who mounting the pillory with him,
 held him by the hand, while he was branded in the forehead, and bore through the tongue,
 who being much affected with his sufferings,
@@ -645,7 +682,10 @@ but through the divine mercy was again restored to a lively feeling sense of tru
 whereby he recovered his unity with his friends,
 and continued therein to the end of his days.
 
-"`Condemned forever be all those false worships,
+[.embedded-content-document.paper]
+--
+
+Condemned forever be all those false worships,
 with which any have idolized my person in the night of my temptation,
 when the power of darkness was above all their casting of their clothes in the way,
 their bowings and singings, and all the rest of those wild actions,
@@ -702,7 +742,9 @@ who kept me in that day, both in thought and deed, as to all women, as a child,
 God is my record.
 And this I mention in particular (hearing of some who still cease not to reproach therewith
 God`'s truth and people) that the mouth of enmity might be shut from evil speaking,
-though this toucheth not my conscience.`"
+though this toucheth not my conscience.
+
+--
 
 Sundry other papers which he published during his imprisonment, and after,
 confirm the sincerity, of his repentance;
@@ -725,7 +767,10 @@ in the forty-fourth year of his age.
 The following expressions, uttered by him about two hours before his departure,
 evidence the peaceful and even tenor or his mind at that solemn period.
 
-"`There is a spirit which I feel, that delights to do no evil, nor to revenge any wrong,
+[.embedded-content-document]
+--
+
+There is a spirit which I feel, that delights to do no evil, nor to revenge any wrong,
 but delights to endure all things, in hopes to enjoy its own to the end:
 Its hope is to outlive all wrath and contention,
 and to weary out all exaltation and cruelty,
@@ -742,7 +787,9 @@ nor doth it murmur at grief and oppression.
 It never rejoiceth but through sufferings, for with the world`'s joy it is murdered:
 I found it alone being forsaken;
 I have fellowship therein with them who lived in dens and desolate places in the earth,
-who through death obtained this resurrection and eternal holy life.`"
+who through death obtained this resurrection and eternal holy life.
+
+--
 
 There seems to be a pride and malignity in human nature while unreformed by religion,
 diametrically opposite to christian charity, which,
@@ -759,8 +806,8 @@ his failings were not only greatly exaggerated,
 but crimes imputed to him of which he appears entirely innocent;
 his enormities are overlooked by few who have given an account of him,
 his repentance by most:^
-footnote:[There is a passage in a book, entitled, A Complete History of England,
-vol. 3. p. 201, which asserts that James Nayler died with no fruits,
+footnote:[There is a passage in a book, entitled, [.book-title]#A Complete History of England,
+Vol. 3# p. 201, which asserts that James Nayler died with no fruits,
 nor as much as signs of repentance:
 How the author came by such information we cannot tell;
 but that it is a manifest mistake we doubt not but
@@ -806,7 +853,7 @@ could induce them to come from the remotest parts of the
 nation to visit and administer to their imprisoned friends?
 What else bring them on foot from the extremity of the North to
 London to solicit the protection and commiseration of government
-in their favour ? We have seen in more instances than one,
+in their favour? We have seen in more instances than one,
 some of these people offering up their bodies to lie in prison,
 if thereby they might release a friend,
 whose life or health was endangered by the hardships of imprisonment;
@@ -857,7 +904,7 @@ that he testified his full repentance for that thing
 in a public assembly with many tears,
 signifying the same also under his hand, which was also printed.`"
 {footnote-paragraph-split}
-Robert Barclay`'s works,
+[.book-title]#Robert Barclay`'s Works#,
 page 876.
 {footnote-paragraph-split}
 James
