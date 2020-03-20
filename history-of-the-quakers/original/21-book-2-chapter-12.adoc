@@ -1,5 +1,6 @@
 == Chapter XII.
 
+[.old-style]
 === Wales
 
 [.chapter-synopsis]
@@ -99,6 +100,7 @@ particularly the sufferings of John-ap-John and Elizabeth Holmes,
 yet to avoid prolixity on a subject everywhere supplying abundant matter for reflection,
 I pass on to
 
+[.old-style]
 === Scotland
 
 The earliest meetings of the people called Quakers

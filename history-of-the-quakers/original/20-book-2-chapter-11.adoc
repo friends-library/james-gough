@@ -131,7 +131,6 @@ and thus continued abusing them for the space of three hours,
 the whole time of the meeting, and at their departure repeated the like abuses,
 pursuing some of them with stones and dirt about two miles.
 {footnote-paragraph-split}
-
 It was customary with the scholars at Cambridge,
 when any Cambridge, of this people passed the streets to or from their meetings,
 to throw dirt and stones at them, to tear their clothes and spit in their faces.
@@ -181,7 +180,6 @@ hallooing and thrusting the friends to and fro in a wild and barbarous manner;
 and it was said that one of the priest`'s agents had made many of the mob drunk on purpose
 to qualify them to perform such wicked service for the church.
 {footnote-paragraph-split}
-
 On the 17th of the month called May,
 a rabble raised by beat of drum came to the meeting at Broad Cerne, beset the house,
 fired guns under the windows, beat those that were met with poles and with their guns,
@@ -379,8 +377,8 @@ of their imprisonment as several of their brethren had done,
 whereby they demonstrated the perfection of christian charity amongst themselves,
 and left their oppressors without excuse,
 although their offer was rejected with some marks of resentment.^
-footnote:[I find Macauley`'s [.book-title]#Hist.
-Ann 1659# the following note: "`Even so early as the commencement of the last parliament,
+footnote:[I find Macauley`'s _Hist. Ann 1659_ the following note:
+"`Even so early as the commencement of the last parliament,
 when the bill for recognizing Richard was in debate,
 a petition in favour of a republic was presented
 to the house by a formidable body of citizens;
@@ -425,15 +423,23 @@ they had the good sense to discern the selfish views
 and partial politics of all these par ties,
 under the disguise of plausible professions, and that all were guilty of palpable errors:
 {footnote-paragraph-split}
-
-[verse]
-____
-Seditione, dolis,
-scelere atque libidine & Ira Iliacos intra muros peccatur; & extra.
+`    Seditione, dolis, scelere atque libidine & Ira
+     Iliacos intra muros peccatur; & extra.
+     - - - - - -
+     In factious deeds, deceit or lust or rage,
+     Republicans and royalists engage. `
 {footnote-paragraph-split}
-In factious deeds, deceit or lust or rage,
-Republicans and royalists engage.]
-____
+Under these circumstances, I meet with no addresses of theirs to the ruling powers of this era;
+but either plain and honest testimonies of individuals against their unrighteous
+application of the power in their hand,
+or remonstrances in a collective capacity of their grievous sufferings,
+and applications for relief: Of the latter sort is the above,
+which I presume is the petition mentioned in the note,
+which as it contained a full account of their grievous sufferings under arbitrary magistrates,
+instigated by their vindictive teachers to treat them with illicit severity,
+such representation of real fact being displeasing to the parliament,
+as it was disgraceful to their government, was by them termed
+(though indisputable truth) a scandal cast upon the magistracy and ministry.]
 
 Commotions still continued in the nation.
 The royalists, meditated a general insurrection, and George Booth, in Cheshire,
@@ -617,7 +623,6 @@ where, through the extreme hardship he endured, he contracted a sickness,
 of which he there died.
 
 In this year were taken for tithes,
-// This looks a little funny in the PDF, and I tried an offset, but that didn't look right either. 
 
 From William Driver of Tremlic, for 1£ 14s. demanded,
 goods worth --12£ From Thomas Pinson of Ditto, for 14£ 1s. demanded,
