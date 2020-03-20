@@ -1,21 +1,26 @@
 == Chapter V.
 
-Account of Imprisonments.--Steadfastness of the People called Quakers.--Modelling
-the Magistracy in consequence of the Corporation Act.--Disposition of the Judges.--The
-People called Quakers the greatest Sufferers.--Conjectural Inquiry into the Causes.
-1+++.+++ Their pacific Principles.
-2+++.+++ Their Constancy in keeping up their Meetings openly.
-3+++.+++ Their Plain-dealing.--Richard Brown`'s Proceedings.--Account of John Perrot.--Commencement
-of the Execution of the late Act.--Rude and illegal Behaviour of Philip Millar.--Trial
-of John Crook and others.--They are not prosecuted by the late Act;
-but by the 3rd. James I. for declining the Oath of Allegiance.--Third Day`'s Trial.
-The first Jury discharged,
-and a new one picked for the Trial.--The Prisoners move for Time to traverse the Indictment,
-which is refused.--The Jury sworn and Evidence given out of the Hearing of the Prisoners.--Sentence
-of Premunire passed upon them.--Reflection on the Hardships attending the Society,
-and their Constancy.--Several others run to a Premunire for not swearing.--Robert Smith,
-Thomas Stordy, and Stephen Pearson, John King and others, Ambrose Rigge, Thomas Goodyear,
-and Benjamin Staples.
+[.chapter-synopsis]
+* Account of Imprisonments
+* Steadfastness of the People called Quakers
+* Modelling the Magistracy in consequence of the Corporation Act
+* Disposition of the Judges
+* The People called Quakers the greatest Sufferers
+* Conjectural Inquiry into the Causes. 1+++.+++ Their pacific Principles. 2+++.+++ Their Constancy in keeping up their Meetings openly. 3+++.+++ Their Plain-dealing
+* Richard Brown`'s Proceedings
+* Account of John Perrot
+* Commencement of the Execution of the late Act
+* Rude and illegal Behaviour of Philip Millar
+* Trial of John Crook and others
+* They are not prosecuted by the late Act; but by the 3rd. James I. for declining the Oath of Allegiance
+* Third Day`'s Trial
+* The first Jury discharged, and a new one picked for the Trial
+* The Prisoners move for Time to traverse the Indictment, which is refused
+* The Jury sworn and Evidence given out of the Hearing of the Prisoners
+* Sentence of Premunire passed upon them
+* Reflection on the Hardships attending the Society, and their Constancy
+* Several others run to a Premunire for not swearing
+* Robert Smith, Thomas Stordy, and Stephen Pearson, John King and others, Ambrose Rigge, Thomas Goodyear, and Benjamin Staples
 
 Amongst the great number imprisoned upon this act were the
 three before-mentioned advocates against the law,
@@ -113,11 +118,16 @@ and the other some time after, a copy of each whereof I insert,
 as a specimen of the honest plain-dealing of men, who, with Elihu, knew not to flatter,
 lest in so doing their maker should take them away.
 
-"`To the KING.
+[.embedded-content-document.letter]
+--
 
-"`King Charles,
+[.letter-heading]
+To the King
 
-"`Thou camest not into this nation by sword, nor by victory of war;
+[.salutation]
+King Charles,
+
+Thou camest not into this nation by sword, nor by victory of war;
 but by the power of the Lord: now if thou dost not live in it, thou wilt not prosper.
 And if the Lord hath shewed thee mercy, and forgiven thee, and thou dost not shew mercy,
 and forgive; the Lord God will not hear thy prayers, nor them that pray for thee.
@@ -142,11 +152,18 @@ in which we have peace: and that we may not be brought into ungodliness by them.
 So hear, and consider, and do good in thy time, whilst thou hast power; and be merciful,
 and forgive; that is the way to overcome, and obtain the kingdom of Christ.
 
-GEORGE FOX.`"
+[.signed-section-signature]
+George Fox
 
+--
+
+[.offset]
 Extract of an Epistle of George Fox the younger to King Charles II.
 
-"`The King of Kings hath beheld all thy actings in the dark,
+[.embedded-content-document.letter]
+--
+
+The King of Kings hath beheld all thy actings in the dark,
 and he hath traced thy walking in obscure places;
 and thou hast not hid thy counsels from the Almighty,
 but he hath seen all the intents of thy heart, and thy good words have not deceived him,
@@ -168,7 +185,7 @@ it is not the person of any man which the Lord regards,
 but it is righteousness which he hath regard to; and so far as man acts in righteousness,
 so far only is he accepted of the Lord, whatever his station may be.
 
-"`Thou hast also grieved the holy Spirit,
+Thou hast also grieved the holy Spirit,
 by thy suffering all these wicked and profane shows and sports,
 which have abounded since thy coming in.
 Thou hast highly displeased the Lord God,
@@ -189,9 +206,12 @@ Such as thou sowest, such thou must reap.
 This is the truth that must stand, and in love to thy soul it is declared by him,
 who must deal uprightly with all men: Though for it I suffer outwardly,
 yet I have a witness in thy conscience, to which I am made manifest,
-and peace with the Lord is my portion, which is better than an earthly crown.`"
+and peace with the Lord is my portion, which is better than an earthly crown.
 
-GEORGE FOX, the younger.
+[.signed-section-signature]
+George Fox, the younger.
+
+--
 
 This letter being delivered to the king,
 it is said he seemed to be considerably affected with the contents;
@@ -339,10 +359,10 @@ instead of being charged with any crime or any indictment upon the late act,
 it seems a surer and severer method of crimination had been concerted.
 The judge began with the following question:
 
-Judge.
+_Judge._
 When did you take the oath of allegiance?
 
-John Crook.
+_John Crook._
 I have been six weeks in prison, and am I now called to accuse myself?
 which you ought not to put me upon.
 Nemo debet seipsum accusare.
@@ -353,12 +373,12 @@ I stand here at this bar as a delinquent,
 and do desire that my accuser may be brought forth, and then I shall answer to my charge,
 if any I be guilty of.
 
-Judge.
+_Judge._
 You are here demanded to take the required to oath of allegiance,
 and when you have done that, you shall be heard about the other,
 for we have power to tender it to any man.
 
-John Crook.
+_John Crook._
 Not to me upon this occasion, in this place,
 for I am brought thither as an offender already, and not to be made an offender here,
 or be obliged to criminate myself.
@@ -372,7 +392,7 @@ And you that are judges on the bench ought to be my council, and not my accusers
 but to instruct me in the benefit of the laws, that I may not, through ignorance,
 lose any advantage, which the laws of my country afford me, as an Englishman.
 
-C+++.+++ Judge.
+_C+++.+++ Judge._
 We sit here to do justice, and are upon our oaths;^
 footnote:[This chief judge would have done well seriously to consider,
 while he was preparing and predetermined to punish honest men,
@@ -390,7 +410,7 @@ Judge`'s Oath,--"`You shall do equal law and execution of right to all his subje
 rich and poor, without having regard to any person.`"]
 and we are to tell you what is law, and not you us: Therefore, sirrah, you are too bold.
 
-John Crook.
+_John Crook._
 Sirrah is not a word for a judge: I am no felon,
 neither ought you to menace the prisoner at the bar.
 For I stand here as arraigned for my life and liberty,
@@ -403,7 +423,7 @@ Let me see my accuser, that I may know for what cause I have been six weeks impr
 and do not put me to accuse myself by asking me questions.
 Let my accuser come forth, or else discharge me by proclamation, as you ought to do.
 
-Judge Twisden.
+_Judge Twisden._
 We take no notice of your being here, otherwise than as of a straggler,
 or as of any other person, or of the people that are here this day;
 for we may tender the oath to any man.
@@ -478,7 +498,7 @@ and of those who by force commanded us to be pulled out of our meetings,
 and carried us to prison without warrant or legal process; and must these be our judges?
 we except against them.
 
-"`Judge.
+_Judge._
 It is too late now, you should have done it before they had been sworn jurymen.
 Jury, go together, that which you have to find is,
 whether they have refused to take the oath,
@@ -519,13 +539,15 @@ be fore they heard the prisoner`'s defence.
 Then silence being proclaimed, the recorder taking a paper in his hand,
 read to the following purpose, viz.
 
-"`The jury for the king do find that John Crook, John Boston, and Isaac Grey,
+[quote]
+____
+The jury for the king do find that John Crook, John Boston, and Isaac Grey,
 are guilty of refusing to take the oath of allegiance,
 for which you do incur a premunire, which is
-
 the forfeiture of all your real estates during life, and your personal estates forever,
 and you to be out of the king`'s protection, and to be imprisoned during his pleasure.
-And this is your sentence.`"
+And this is your sentence.
+____
 John Crook replied, "`We are still under God`'s protection.`"
 
 The Court was adjourned, and the prisoners, remanded to Newgate.
@@ -567,8 +589,8 @@ During their imprisonment, John crook drew up a narrative of their trial,
 and committed it to the press,
 that the king and nation might not be ignorant of the measures now pursued,
 and their tendency to despotism and the ruin of the subject;
-which narrative is preserved at length in Sewel`'s History, p. 358,
-etc. and Besse`'s Collection of Sufferings, p. 369,
+which narrative is preserved at length in Sewel`'s [.book-title]#History,# p. 358,
+etc. and Besse`'s [.book-title]#Collection of Sufferings,# p. 369,
 etc. from which the foregoing abridged account is abstracted.
 On the 23rd of the following month (as was supposed by order
 from the king) they were set at liberty by the jailer;
@@ -635,29 +657,29 @@ I tender you the oath of allegiance; will you take it or no?
 I tell you the danger that will follow: You will incur a premunire,
 and forfeit your estate to the King.
 
-R+++.+++ Smith.
+_R+++.+++ Smith._
 Who was that law made for, the papists or us?
 
-Judge.
+_Judge._
 For both.
 
-R+++.+++ Smith.
+_R+++.+++ Smith._
 Why then is it not tendered to them, as well as us?
 
-Judge.
+_Judge._
 They have taken it already.
 
-R+++.+++ Smith.
+_R+++.+++ Smith._
 Suppose I find some papists, or popishly affected, on the bench,
 shall it be done to them?
 
-Judge.
+_Judge._
 They have done it already.
 
-R+++.+++ Smith.
+_R+++.+++ Smith._
 Let us and the people see, that we may be satisfied.
 
-Judge.
+_Judge._
 Will you take the oath or not?
 Otherwise we will record your refusal, and call you again tomorrow,
 and on your second refusal record it also,
@@ -738,6 +760,6 @@ The jailer, encouraged in obduracy (habitual, it is probable,
 in him) by the example of his superiors, when he brought them back to prison,
 told the other prisoners, that if they wanted clothes,
 they might take theirs off their backs,
-for they can have no law against you:`" But one of the prisoners humanely answered,
+for they can have no law against you: But one of the prisoners humanely answered,
 He would rather go naked than strip honest men of their clothes,
 who were stripped of all they had beside.
