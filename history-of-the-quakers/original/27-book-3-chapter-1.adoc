@@ -1,11 +1,17 @@
 == Chapter I.
 
-The Members of the Presbyterian Party restored to their Seats in Parliament.--A new
-Parliament elected.--The King restored.--Seven Hundred of the People called Quakers
-released from Prison.--The Mayor of Lancaster imprisons George Fox.--Margaret Fell`'s
-Narrative of his Apprehension.--She lays his Case before the King.--Habeas Corpus obtained
-to remove him to the King`'s Bench.--Referred to the King and Council.--He is set at
-liberty.--Richard Hubberthorn hath a Conference with the King.
+[.chapter-synopsis]
+* The Members of the Presbyterian Party restored to their Seats in Parliament
+* A new Parliament elected
+* The King restored
+* Seven Hundred of the People called Quakers released from Prison
+* The Mayor of Lancaster imprisons George Fox
+* Margaret Fell`'s Narrative of his Apprehension
+* She lays his Case before the King
+* Habeas Corpus obtained to remove him to the King`'s Bench
+* Referred to the King and Council
+* He is set at liberty
+* Richard Hubberthorn hath a Conference with the King
 
 The convulsed state of the nation at this period inciting most men of moderation
 and consequence to an earnest wish for some settled stable form of government,
@@ -102,7 +108,7 @@ Nothing was to be seen at court but feasting, hard drinking,
 revelling and amorous intrigues, which engendered the most enormous vices.
 From court the contagion spread like wild fire among the people,
 insomuch that men threw off the very profession of virtue and piety.`"
-Neale`'s history of the Puritans, vol. 2. p. 564-565.]
+Neale`'s [.book-title]#History of the Puritans, Vol. 2.# p. 564-565.]
 
 In this interval of general joy and festivity the Quakers (so called)
 enjoyed a good degree of quiet and respite from the grievous sufferings
@@ -131,9 +137,8 @@ measures which they had in contemplation.
 Yet in some parts they were greatly molested and abused
 in their religious meetings during this interval.
 Some of the inferior magistrates of the former class, who still retained their places,
-and their inimical dispositions toward this body of people, continued to be vexatious
-
-to them; in particular, Henry Porter, mayor of Lancaster, a weak temporizing man,
+and their inimical dispositions toward this body of people, continued to be vexatious to them;
+in particular, Henry Porter, mayor of Lancaster, a weak temporizing man,
 who had been a zealous partisan of the republicans,
 and very active against the King`'s interest, in order, it is like,
 to make an atonement for his past misdemeanours,
@@ -233,10 +238,14 @@ and arresting her guest there, as a violation or the liberty of the subject,
 and an injury offered to her,
 published the following brief narrative of his apprehension:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To all Magistrates,
 concerning the wrong taking up and imprisoning of George Fox at Lancaster.
 
-"`I do inform the governors of this nation, "`that Henry Porter, mayor of Lancaster,
+I do inform the governors of this nation, that Henry Porter, mayor of Lancaster,
 sent a warrant with four constables to my house, for which he had no authority nor order.
 They searched my house, and apprehended George Fox in it,
 who was not guilty of the breach of any law, or of any offence against any in the nation.
@@ -257,7 +266,10 @@ I am concerned in this thing, inasmuch as he was apprehended in my house,
 and if he be guilty I am so too.
 So I desire to have this searched out.
 
-Margaret Fell.`"
+[.signed-section-signature]
+Margaret Fell.
+
+--
 
 Margaret Fell further determined to take a journey to London,
 to solicit the King`'s protection,
