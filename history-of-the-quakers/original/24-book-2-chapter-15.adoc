@@ -1,19 +1,27 @@
 == Chapter XV.
 
-Anne Aujlin and Mary Fisher, two of the People called Quakers,
-arrive at Boston.--Order concerning them.--Their Books burned,
-and they themselves imprisoned.--Stripped and searched for Tokens
-of being Witches.--Eight more Friends arrive at Boston.--First
-Law against Quakers.--Nicholas Upsal testifies against it,
-for which he is fined and banished.--Anne Burdon, Mary Clarke,
-and three others whipped.--Addition to the Law.
-Lawrence and Cassandra Southick and their Son Josiah
-whipped.--William Shattock sent to the House of Correction,
-whipped and banished.--Sarah Gibbons and Dorothy Waugh.--Thomas Harris imprisoned
-and cruelly whipped.--Second Law against Quakers.--Barbarous Treatment of William
-Brend.--The People discontented at this Cruelty.--The Magistrates endeavour to
-appease them.--Priest Norton takes the Jailers Part.--Samuel Shattock,
-Lawrence Southick and others committed to Prison.--Their Letter to the Magistrates.
+[.chapter-synopsis]
+* Anne Austin and Mary Fisher, two of the People called Quakers, arrive at Boston
+* Order concerning them
+* Their Books burned, and they themselves imprisoned
+* Stripped and searched for Tokens of being Witches
+* Eight more Friends arrive at Boston
+* First Law against Quakers
+* Nicholas Upsal testifies against it, for which he is fined and banished
+* Anne Burdon, Mary Clarke, and three others whipped
+* Addition to the Law
+* Lawrence and Cassandra Southick and their Son Josiah whipped
+* William Shattock sent to the House of Correction, whipped and banished
+* Sarah Gibbons and Dorothy Waugh
+* Thomas Harris imprisoned and cruelly whipped
+* Second Law against Quakers
+* Barbarous Treatment of William Brend
+* The People discontented at this Cruelty
+* The Magistrates endeavour to appease them
+* Priest Norton takes the Jailers Part
+* Samuel Shattock,
+* Lawrence Southick and others committed to Prison
+* Their Letter to the Magistrates
 
 By this retrospective view of the first inhabitants of New England,
 it is clearly manifest,
@@ -50,9 +58,13 @@ as if to provide for the security of the state against the alarming
 danger threatening it from the arrival of two harmless women,
 which issued the following order:
 
-"`At a council held at Boston iith July, 11th 1756.
+[.embedded-content-document.legal]
+--
 
-"`Whereas there are several laws long since made and published in this jurisdiction,
+[.signed-section-context-open]
+At a council held at Boston 11th July, 11th 1756.
+
+Whereas there are several laws long since made and published in this jurisdiction,
 bearing testimony against heretics and erroneous persons;
 yet notwithstanding Simon Kempthorn of Charles-town,
 master of the ship Swallow of Boston, hath brought into this jurisdiction,
@@ -70,23 +82,28 @@ The council therefore tendering the preservation of the peace and truth
 enjoyed and professed among the churches of Christ in this country,
 do hereby order:
 
-First,
+[.numbered]
+_First,_
 That all such corrupt books as shall be found upon search
 to be brought in and spread by the aforesaid persons,
 be forthwith burned and destroyed by the common executioner.
 
-Secondly, That the said Anne and Mary be kept in close prison,
+[.numbered]
+_Secondly,_ That the said Anne and Mary be kept in close prison,
 and none admitted communication with them without leave from the governor,
 deputy governor or two magistrates, to prevent the spreading their corrupt opinions,
 until such time as they be delivered aboard of some vessel,
 to be transported out of the country.
 
-Thirdly, The said Simon Kempthorn is hereby enjoined, speedily and directly,
+[.numbered]
+_Thirdly,_ The said Simon Kempthorn is hereby enjoined, speedily and directly,
 to transport or cause to be transported the said persons from hence to Barbados,
 from whence they came,
 he defraying all the charges of their imprisonment and for the effectual
 performance hereof he is to give security in a bond of 100£. sterling,
-and on his refusal to give such security he is to be committed to prison till he do it.`"
+and on his refusal to give such security he is to be committed to prison till he do it.
+
+--
 
 In consequence of this order their books were burned by the hangman,
 and the said two women were committed to prison by the deputy governor as Quakers,
@@ -126,8 +143,7 @@ their justice went no farther than words.
 The accused persons, being some of them people of property,
 had all their effects seized by the officers, of which afterwards, even those,
 whose innocency was acknowledged, could never recover any,
-or but a very inconsiderable part.
-Neale]
+or but a very inconsiderable part. --Neale]
 and misused them in this search in a shameful and barbarous manner.
 They were not only debarred of light and conversation,
 but in a great measure of sustenance also,
@@ -214,10 +230,14 @@ who kindly invited him to fix his residence with him, and he would make him a wa
 adding his admiration at the Englishmen`'s notion of the divine being,
 who dealt so cruelly with one another about their God.
 
-+++___________+++Pudet hac opprobria nobis, Et dici potuisse, et non potuisse refelli.
+[verse]
+____
+Pudet hac opprobria nobis,
+Et dici potuisse, et non potuisse refelli.
 
-That such reproaches stain the christian name, And stain with reason,
-is the christian`'s shame.
+That such reproaches stain the christian name,
+And stain with reason, is the christian`'s shame.
+____
 
 The first of this people who came to New England, after the making of this law,
 was Ann Burden, widow, who although no preacher,
@@ -285,7 +305,10 @@ which threats they afterwards made good.
 At the general court held in Boston the 14th of October, this year,
 they made the following addition to the former law:
 
-"`That if any person should entertain any Quaker or Quakers or other blasphemous heretics,
+[.embedded-content-document.legal]
+--
+
+That if any person should entertain any Quaker or Quakers or other blasphemous heretics,
 knowing them so to be,
 every such person should forfeit to the country 40s.
 for every hour`'s entertaining or concealment,
@@ -300,7 +323,9 @@ Both male and female moreover to be sent to the house of correction,
 and kept to hard labour till they can be sent away at their own charge.
 For the third offence their tongues were to be bored through with an hot iron.
 That every Quaker arising from among themselves should be dealt with,
-and suffer the like punishments as the law provides against foreign Quakers.`"
+and suffer the like punishments as the law provides against foreign Quakers.
+
+--
 
 These several persecuting laws were not suffered to lie as a dead letter,
 but the same wrathful and vindictive spirit, which had dictated them,
@@ -361,7 +386,7 @@ the jailer inured to cruelty and unfeeling barbarity,
 insisted on his working (although disabled by his abusive treatment) and upon his refusal,
 gave him, weak as he was, twenty-two blows with a pitched rope,
 and some days after fifteen stripes with a three corded whip.^
-footnote:[I think Neale`'s relation of this poor man`'s cafe demands some animadversions.
+footnote:[I think Neale`'s relation of this poor man`'s case demands some animadversions.
 "`Harris (says he) like the rest of his brethren, would not strike a stroke in prison,
 he would suffer anything, but do nothing;
 nay so stubborn were he and his friends that they
@@ -391,14 +416,13 @@ way to heaven through all attendant afflictions and tribulations on earth,
 even that way which the vulture`'s eye hath not seen nor any ravenous beast,
 nor persecuting spirit trodden in;
 but wherein the way-faring man though a fool shall not err.
-{footnote-paragraph-split}
 Careful and circumspect to do no evil,
 and sincerely disposed to do the will of God,
 as the means of finding peace and acceptance with him; in obedience to his requirings,
 as they in the sincerity of their hearts believed, they were engaged to go to and fro,
 to propagate righteousness,
 and to convince the professors of Christianity of the insecurity
-of trusting in any profession of religion without holiness.
+of trusting in any profession of _religion without holiness._
 Conscious of the purity and disinterestedness of their motive,
 and in the discharge of duty,
 endeavouring to keep a conscience void of offence toward God and toward man,
@@ -409,14 +433,14 @@ They knew themselves to be innocent of just offence to God or man;
 in this view to be active in their own punishment,
 they thought a tacit acquiescence and confession of guilt,
 which their consciences witnessed they were free from:
-As faithful martyrs they patiently suffered anything,
+As faithful martyrs they patiently _suffered anything,_
 that unreasonable men invested with arbitrary power might lie permitted to lay upon them,
 for their open testimony to the truth, or against error;
-but they would do nothing that might imply an acknowledgement of guiltiness of any crime,
+_but they would do nothing_ that might imply an acknowledgement of guiltiness of any crime,
 which they believed themselves in no degree guilty of;
 And what in this conduct is justly blameable?
 It was the only way left them under the administration
-of un equal rule to assert their innocence,
+of unequal rule to assert their innocence,
 to keep the reputation of that truth they maintained,
 their conversation and their consciences unspotted,
 which was a concern nearer to their hearts, than to rescue their bodies from torture.
@@ -456,9 +480,13 @@ which as a specimen of the temper,
 the measure of charity and urbanity actuating this legislature,
 take at length as follows.
 
+[.embedded-content-document.legal]
+--
+
+[.signed-section-context-open]
 At a Court at Boston the 20th of May, 1658.
 
-"`That Quakers and such accursed heretics, arising among ourselves,
+That Quakers and such accursed heretics, arising among ourselves,
 may be dealt with according to their deserts, and their pestilent errors and practices^
 footnote:[Pestilent errors and practices, diabolical doctrines.
 These are no more than hard names, without application or other meaning,
@@ -469,7 +497,7 @@ If they were so pestilent, pernicious and diabolical,
 they were the more easily exposed and refuted.
 And their pastors (so termed) had manifested a more becoming zeal,
 in exercising christian endeavours to preserve their flocks from infection,
-by pious exhortations, by exposing the ill consequence of their pernicious ways,
+by pious exhortations, by exposing the ill consequence of their _pernicious ways,_
 and refuting their diabolical doctrines,
 than by applying to the secular power to repress by violence,
 doctrines which they were unable or too idle to refute by argument.]
@@ -489,7 +517,9 @@ nor use their sinful practices;
 or else shall depart the jurisdiction at their own charges:
 And if any of them return again,
 then each such person shall incur the penalties of
-the laws formerly made for strangers.`"
+the laws formerly made for strangers.
+
+--
 
 But of all the instances of barbarous cruelty that in the records
 of this furious government disgust the tender feelings of humanity,
@@ -621,7 +651,7 @@ footnote:[Neale goes on,
 insomuch that the jailer was forced to lay the case before the magistrates,
 etc. etc.`" as in the note referred to.
 {footnote-paragraph-split}
-"`One of them was almost whipped to death.`"]
+"`One of them was almost whipped to death.`"
 This was William Brend, above mentioned,
 whose particular grievous suffering he could hardly be ignorant of,
 as he quotes Bishop`'s New Eng.
@@ -635,9 +665,8 @@ till some of their friends laid down the money, and so they were discharged.`"
 {footnote-paragraph-split}
 After reviewing
 my foregoing relation of the case of W. Brend,
-as I find it related by W. Sewel, Jos.
-Besse, and in New Eng.
-judged, which all in the general correspond,
+as I find it related by W. Sewel, Jos. Besse, and in _New Eng. judged,_
+which all in the general correspond,
 and which last was published near the time of these transactions,
 and the veracity thereof never called in question, that I have heard of:
 On comparing this narration of Neale`'s therewith,
@@ -691,7 +720,6 @@ and it is so contrary to the practise of these, I understand by his friends,
 that I shall believe it a misrepresentation,
 till I have stronger evidence of its truth than D. Neale`'s bare assertion.
 {footnote-paragraph-split}
-
 The like account we have in Harris`'s case;
 "`Some of his friends paid his charges, and so he was dismissed.
 And this became afterwards the usual practise of the Quakers, not to pay their own fees,
@@ -734,11 +762,16 @@ Samuel Gaskin and Joshua Buffum, who being kept close in their house of correcti
 during the heat of the summer, from their husbandry, after three weeks confinement,
 represented their case to the court in the following letter:
 
-"`This to the Magistrates at the Court in Salem.
+[.embedded-content-document.letter]
+--
 
-"`Friends,
+[.letter-heading]
+This to the Magistrates at the Court in Salem.
 
-"`Whereas it was your pleasure to commit us, whose names are under-written,
+[.salutation]
+Friends,
+
+Whereas it was your pleasure to commit us, whose names are under-written,
 to the house of correction in Boston, although the Lord,
 the righteous Judge of Heaven and Earth,
 is our witness that we have done nothing worthy of stripes or of bonds;
@@ -771,13 +804,16 @@ freely to offer up our lives in this cause of God, for which we suffer: Yea,
 and we do find (through grace) the enlargements of God in our imprisoned state,
 to whom alone we commit ourselves and families,
 for the disposing of us according to his infinite wisdom and pleasure,
-in whole love is our rest and life.`"
+in whole love is our rest and life.
 
 From the house of bondage in Boston, wherein we are made captives by the wills of men,
 although made free by the Son. John 8:36.
 In which we quietly rest, this 16th of the 5th mo 1658.
 
-Laurence Southick, Cassandra Southick, Josiah Southick, Samuel Shattock, Joshua Buffum.`"
+[.signed-section-signature]
+Laurence Southick, Cassandra Southick, Josiah Southick, Samuel Shattock, Joshua Buffum.
+
+--
 
 Upon this representation Samuel Shattock Joshua Buffum were released,
 but the other three arbitrarily detained in prison.

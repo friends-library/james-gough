@@ -1,15 +1,21 @@
-== Chapter XVII. EUROPE and ASIA.
+== Chapter XVII. Europe and Asia.
 
-William Caton goes to Calais.--Afterwards to Holland with John Stubbs.--To
-Holland a second Time.--William Caton at Rotterdam and Amsterdam meets
-with little satisfaction.--Is imprisoned at Middleburgh,
-and sent back to England.--Christopher Birkhead goes to France.--Thence to Middleburgh
-in Zealand.--Accusation against him.--His Defence.--He is condemned to the Rasphouse
-for two Tears.--George Bailey dies in Prison in France.--George Robinson,
-in a Journey to Jerusalem,
-meets with a Variety of Dangers.--Through which he was preserved to return
-home in safety,--Mary Fisher travels to Adrianople to visit Sultan Mahomet
-4th.--By whom her Visit is favourably received.
+[.chapter-synopsis]
+* William Caton goes to Calais
+* Afterwards to Holland with John Stubbs
+* To Holland a second Time
+* William Caton at Rotterdam and Amsterdam meets with little satisfaction
+* Is imprisoned at Middleburgh, and sent back to England
+* Christopher Birkhead goes to France
+* Thence to Middleburgh in Zealand
+* Accusation against him
+* His Defence
+* He is condemned to the Rasphouse for two Years
+* George Bailey dies in Prison in France
+* George Robinson, in a Journey to Jerusalem, meets with a Variety of Dangers
+* Through which he was preserved to return home in safety
+* Mary Fisher travels to Adrianople to visit Sultan Mahomet 4th
+* By whom her Visit is favourably received
 
 The divine light which the people called Quakers believed in and testified of,
 they believed to be universal.
@@ -105,10 +111,13 @@ instead of being further heard, was apprehended and detained in custody.
 On the 19th 1 mo.
 1657, the following charge was exhibited against him.
 
-"`The bailiff of the city of Middleburgh demandeth, according to his office,
+[.embedded-content-document.legal]
+--
+
+The bailiff of the city of Middleburgh demandeth, according to his office,
 against Christopher Birkhead.
 
-"`Whereas the said Christopher Birkhead is a maker of uproars, seditions,
+Whereas the said Christopher Birkhead is a maker of uproars, seditions,
 and a blasphemer against the servants, ministers or preachers of the reformed churches,
 Therefore it is demanded, that the ensuing punishments be inflicted on him; first,
 that he be brought before the Stadthouse,
@@ -116,7 +125,9 @@ and there be put upon a scaffold and whipped with rods,
 and burned with the mark of this city of Middleburgh,
 and for some years to be put in the Rasp-house, and there to rasp and work,
 the time left to the discretion of the Lords,
-and afterwards to be banished out of the jurisdiction of these lands.`"
+and afterwards to be banished out of the jurisdiction of these lands.
+
+--
 
 I regret that occasions occur so frequently in the progress of this work,
 to remark the unchristian temper and vindictive spirit
@@ -209,17 +220,23 @@ at length an Irish friar came from Jerusalem,
 and informed him that he was sent by his fraternity there to propose to him three questions,
 viz.
 
+[.numbered]
 1+++.+++ Whether he would promise, when he came to Jerusalem, to visit the holy places,
 as other pilgrims did?
 
+[.numbered]
 2+++.+++ Whether he would pay such sums of money as it was customary with pilgrims to pay?
 
+[.numbered]
 3+++.+++ Whether he would wear such a habit as pilgrims usually wear?
 
+[.offset]
 To which questions the following injunctions were added:
 
+[.numbered]
 1+++.+++ Not to speak any thing against the Turkish laws.
 
+[.numbered]
 2+++.+++ When he should come to Jerusalem not to speak any thing about religion.
 
 But steadfastly refusing to answer their questions, or to submit to their injunctions,
