@@ -238,7 +238,6 @@ To which questions the following injunctions were added:
 
 [.numbered]
 2+++.+++ When he should come to Jerusalem not to speak any thing about religion.
-// Numbering and doing this offset looked the best to me out of all the ways I tried, but it seems pretty spaced out too, so maybe there's a better way.
 
 But steadfastly refusing to answer their questions, or to submit to their injunctions,
 he was, by the said friar,

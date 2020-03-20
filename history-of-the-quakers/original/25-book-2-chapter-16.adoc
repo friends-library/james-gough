@@ -166,7 +166,7 @@ Thus on the 20th of October, 1658, they passed the following act:
 [.embedded-content-document.legal]
 --
 
-An act made at a general court held at Boston the 20th of October, 1658.
+=== An act made at a general court held at Boston the 20th of October, 1658.
 
 Whereas there is a pernicious sect, commonly called Quakers, lately arisen,
 who by word and writing have published and maintained many dangerous and horrid tenets,^
@@ -456,8 +456,7 @@ and allowed till the 4th of September to depart,
 and so conceive an idea of the lenity of this government,
 to which it hath no better claim in this, than in its preceding transactions,
 being marked with the same bitter spirit of unpitying animosity.
-From New Eng.
-judged we learn;
+From New Eng. judged we learn;
 "`That they came from Rhode Island in the then 4th month (June) to Boston,
 where they were apprehended and sent to "`prison,
 to remain there till the next Court of Assistants,`" which was held as above related:
@@ -661,14 +660,15 @@ a revengeful spirit, and a degree of madness rather inspired them.`"
 Rank malice this.
 Mere unsupported partial opinion, founded in ill will, which speaks well of none,
 to which hear John Whiting`'s reply.
-"`I would fain knew wherein +++[+++they shewed little of the spirit of martyrdom+++]+++
-and beseech the reader to peruse, not only their examinations,
+"`I would fain knew wherein +++[+++they shewed little of the spirit of martyrdom+++&#93;+++ and
+beseech the reader to peruse, not only their examinations,
 and speeches at their deaths;
-but also their papers and epistles +++[+++recorded in the Appendix to [.book-title]#New England Judged,#
-in Sewel`'s [.book-title]#History,# page 228, etc. or Besse`'s [.book-title]#Sufferings, Vol. 2.# page 238.+++]+++
-and compare them with the speeches and letters of the martyrs, in the book of martyrs,
+but also their papers and epistles +++[+++recorded in the Appendix to _New England Judged,_
+in Sewel`'s _History,_ page 228, etc.
+or Besse`'s _Sufferings, Vol. 2._ page 238.+++&#93;+++ and compare them with
+the speeches and letters of the martyrs, in the book of martyrs,
 and see whether they do not savour of the spirit of martyrdom,
-and holy resignation in the case. +++____+++ "`What won`'t envy misrepresent?
+and holy resignation in the case. -- "`What won`'t envy misrepresent?
 They died so like the martyrs of Jesus Christ,
 with the glorious spirit of God resting upon them; yea, and supporting them to the last,
 as affected the hearts of many at the time,

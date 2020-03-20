@@ -143,8 +143,7 @@ their justice went no farther than words.
 The accused persons, being some of them people of property,
 had all their effects seized by the officers, of which afterwards, even those,
 whose innocency was acknowledged, could never recover any,
-or but a very inconsiderable part.
-Neale]
+or but a very inconsiderable part. --Neale]
 and misused them in this search in a shameful and barbarous manner.
 They were not only debarred of light and conversation,
 but in a great measure of sustenance also,
@@ -231,17 +230,14 @@ who kindly invited him to fix his residence with him, and he would make him a wa
 adding his admiration at the Englishmen`'s notion of the divine being,
 who dealt so cruelly with one another about their God.
 
-[quote]
+[verse]
 ____
-_+++___________+++Pudet hac opprobria nobis, Et dici potuisse, et non potuisse refelli._
-____
+Pudet hac opprobria nobis,
+Et dici potuisse, et non potuisse refelli.
 
-[quote]
-____
 That such reproaches stain the christian name,
 And stain with reason, is the christian`'s shame.
 ____
-// I did the quote like this above because it looked funny in the pdf the other ways I tried...if there's another way, that's cool too.
 
 The first of this people who came to New England, after the making of this law,
 was Ann Burden, widow, who although no preacher,
@@ -390,7 +386,7 @@ the jailer inured to cruelty and unfeeling barbarity,
 insisted on his working (although disabled by his abusive treatment) and upon his refusal,
 gave him, weak as he was, twenty-two blows with a pitched rope,
 and some days after fifteen stripes with a three corded whip.^
-footnote:[I think Neale`'s relation of this poor man`'s cafe demands some animadversions.
+footnote:[I think Neale`'s relation of this poor man`'s case demands some animadversions.
 "`Harris (says he) like the rest of his brethren, would not strike a stroke in prison,
 he would suffer anything, but do nothing;
 nay so stubborn were he and his friends that they
@@ -420,14 +416,13 @@ way to heaven through all attendant afflictions and tribulations on earth,
 even that way which the vulture`'s eye hath not seen nor any ravenous beast,
 nor persecuting spirit trodden in;
 but wherein the way-faring man though a fool shall not err.
-{footnote-paragraph-split}
 Careful and circumspect to do no evil,
 and sincerely disposed to do the will of God,
 as the means of finding peace and acceptance with him; in obedience to his requirings,
 as they in the sincerity of their hearts believed, they were engaged to go to and fro,
 to propagate righteousness,
 and to convince the professors of Christianity of the insecurity
-of trusting in any profession of religion without holiness.
+of trusting in any profession of _religion without holiness._
 Conscious of the purity and disinterestedness of their motive,
 and in the discharge of duty,
 endeavouring to keep a conscience void of offence toward God and toward man,
@@ -438,10 +433,10 @@ They knew themselves to be innocent of just offence to God or man;
 in this view to be active in their own punishment,
 they thought a tacit acquiescence and confession of guilt,
 which their consciences witnessed they were free from:
-As faithful martyrs they patiently suffered anything,
+As faithful martyrs they patiently _suffered anything,_
 that unreasonable men invested with arbitrary power might lie permitted to lay upon them,
 for their open testimony to the truth, or against error;
-but they would do nothing that might imply an acknowledgement of guiltiness of any crime,
+_but they would do nothing_ that might imply an acknowledgement of guiltiness of any crime,
 which they believed themselves in no degree guilty of;
 And what in this conduct is justly blameable?
 It was the only way left them under the administration
@@ -502,7 +497,7 @@ If they were so pestilent, pernicious and diabolical,
 they were the more easily exposed and refuted.
 And their pastors (so termed) had manifested a more becoming zeal,
 in exercising christian endeavours to preserve their flocks from infection,
-by pious exhortations, by exposing the ill consequence of their pernicious ways,
+by pious exhortations, by exposing the ill consequence of their _pernicious ways,_
 and refuting their diabolical doctrines,
 than by applying to the secular power to repress by violence,
 doctrines which they were unable or too idle to refute by argument.]
@@ -670,9 +665,8 @@ till some of their friends laid down the money, and so they were discharged.`"
 {footnote-paragraph-split}
 After reviewing
 my foregoing relation of the case of W. Brend,
-as I find it related by W. Sewel, Jos.
-Besse, and in New Eng.
-judged, which all in the general correspond,
+as I find it related by W. Sewel, Jos. Besse, and in _New Eng. judged,_
+which all in the general correspond,
 and which last was published near the time of these transactions,
 and the veracity thereof never called in question, that I have heard of:
 On comparing this narration of Neale`'s therewith,
