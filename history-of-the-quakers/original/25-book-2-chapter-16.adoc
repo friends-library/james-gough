@@ -1,20 +1,26 @@
 == Chapter XVI.
 
-Christopher Holder,
-John Copeland and John Rouse have their right Ears cut off.--Their Appeal to
-England rejected.--Katharine Scot whipped.--Many join in Society with the People
-called Quakers.--The Priests petition for a Law to banish them on pain of Death.--Opposed
-by the Court of Deputies.--By the Instigation of the Priests carried by one Vote.--Two
-Deputies enter their Protest against it.--Laurence Southick,
-Samuel Shattock,
-etc. banished upon the Act.--Recapitulation of the Treatment of Laurence and Cassandra
-Southick.--Their Son and Daughter fined for absence from the Public Worship,
-and ordered to be sold for bond Slaves to satisfy the Fine.--William Robinson,
-Marmaduke Stevenson,
-Mary Dyer and N. Davis banished on pain of Death.--The three former continue
-or return and are all condemned to Death.--Mary Dyer`'s Letter to the General
-Court.--They are led to execution with Drums beating.--Reflections on their Usage.--Mary
-Dyer reprieved.--Inhumanity to the dead Bodies.--People disgusted at these Executions.
+[.chapter-synopsis]
+* Christopher Holder, John Copeland and John Rouse have their right Ears cut off
+* Their Appeal to England rejected
+* Katharine Scot whipped
+* Many join in Society with the People called Quakers
+* The Priests petition for a Law to banish them on pain of Death
+* Opposed by the Court of Deputies
+* By the Instigation of the Priests carried by one Vote
+* Two Deputies enter their Protest against it
+* Laurence Southick, Samuel Shattock, etc. banished upon the Act
+* Recapitulation of the Treatment of Laurence and Cassandra Southick
+* Their Son and Daughter fined for absence from the Public Worship
+* Ordered to be sold for bond Slaves to satisfy the Fine
+* William Robinson, Marmaduke Stevenson, Mary Dyer and N. Davis banished on pain of Death
+* The three former continue or return and are all condemned to Death
+* Mary Dyer`'s Letter to the General Court
+* They are led to execution with Drums beating
+* Reflections on their Usage
+* Mary Dyer reprieved
+* Inhumanity to the dead Bodies
+* People disgusted at these Executions
 
 We come now to the execution of their law against such as should presume to return,
 after they had suffered before.
@@ -123,7 +129,7 @@ The laws are to be transmitted from one house to the other,
 and not to be in force till passed by a majority of both houses;
 and if any disagreement or difference in judgment arise between the two houses,
 it is to be decided by a majority of both houses met together.
-Appendix to Neale`'s history of New-England, vol. 2. p. 336.]
+Appendix to Neale`'s [.book-title]#History of New-England, Vol. 2.# p. 336.]
 at the instigation of the priests, and to gratify their own mortal hatred,
 made no difficulty of passing an act to banish and
 put them to death without a trial by jury,
@@ -157,9 +163,12 @@ And it seems that the law was amended, prescribing a legal trial,
 (if it can be called a trial at all) consonant to this standing law.
 Thus on the 20th of October, 1658, they passed the following act:
 
-"`An act made at a general court held at Boston the 20th of October, 1658.
+[.embedded-content-document.legal]
+--
 
-"`Whereas there is a pernicious sect, commonly called Quakers, lately arisen,
+An act made at a general court held at Boston the 20th of October, 1658.
+
+Whereas there is a pernicious sect, commonly called Quakers, lately arisen,
 who by word and writing have published and maintained many dangerous and horrid tenets,^
 footnote:[Dangerous and horrid tenets: What these dangerous and horrid tenets were,
 is neither specified in this nor any other of their laws.]
@@ -198,7 +207,7 @@ prohibiting their coming into this jurisdiction,
 they have not been deterred from their impetuous attempts
 to undermine our peace and hazard our ruin.
 
-"`For prevention thereof, this court doth order and enact,
+For prevention thereof, this court doth order and enact,
 that every person or persons of the cursed sect of Quakers, who is not an inhabitant of,
 but is found within this jurisdiction,
 shall be apprehended without warrant where no magistrate is at hand, by any constable,
@@ -240,7 +249,9 @@ where continuing obstinate, and refusing to retract and reform the aforesaid opi
 they shall be sentenced to banishment upon pain of death; and any one magistrate,
 upon information given him of any such person, shall cause him to be apprehended,
 and shall commit any such person to prison, according to his discretion,
-until he come to trial as aforesaid.`"
+until he come to trial as aforesaid.
+
+--
 
 Such a sample of legislation is a monument of lasting infamy to the legislators.
 To enact and inflict capital punishment from personal dislikes,
@@ -376,7 +387,10 @@ their parents having been reduced to poverty by repeated fines and extravagant d
 wherefore to satisfy the fine,
 they were ordered to be sold for bond-slaves by the following mandate:
 
-"`Whereas Daniel Southick and Provided Southick, son and daughter of Laurence Southick,
+[.embedded-content-document.legal]
+--
+
+Whereas Daniel Southick and Provided Southick, son and daughter of Laurence Southick,
 absenting themselves from the public ordinances,
 having been fined by the courts ordered of Salem and Ipswich,
 pretending they have no estates, and resolving not to work: The court,
@@ -385,7 +399,9 @@ in answer to what should be done for the satisfaction of the fines resolves,
 That the treasurers of the several counties,
 are and shall be fully empowered to sell the said persons
 to any of the English nation at Virginia or Barbados,
-to answer the said fines.`"
+to answer the said fines.
+
+--
 
 Pursuant to this order Edward Butter, one of the treasurers,
 sought out for a passage for them to Barbados for sale,
@@ -510,7 +526,11 @@ Of which, as a specimen of equanimity in the most trying circumstances,
 and the good sense and christian temper that dictated it,
 we lay before the reader the following abstract:
 
-'`To the general court at Boston.
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+To the general court at Boston.
 
 Whereas I am charged by many with guiltiness of my own blood:
 If you mean in my coming to Boston, I am therein clear, and justified by the Lord,
@@ -555,7 +575,10 @@ but what you sow that shall ye reap from him,
 that will render to every one according to the deeds done in the body,
 whether good or evil: Even so be it, saith
 
+[.signed-section-signature]
 Mary Dyer
+
+--
 
 The 27th of October, being the day appointed for their execution,
 in the afternoon they were led to the gallows by Michaelson the Marshal,
@@ -615,7 +638,7 @@ while the facts were recent, and all the parties concerned in being,
 and not controverted that I know of) and hath adopted that of Cotton Mather,
 a New England preacher and apologist, written many years after,
 whose reflections on the Quakers have been fully answered by John Whiting,
-in a piece entitled Truth and Innocency defended against Falsehood and Envy,
+in a piece entitled _Truth and Innocency Defended Against Falsehood and Envy,_
 printed in 1702.
 Which answer Neale also cites for his authority, page 325 vol. 1.
 and consequently had read it, where he might have seen these aspersions refuted.
@@ -638,14 +661,14 @@ a revengeful spirit, and a degree of madness rather inspired them.`"
 Rank malice this.
 Mere unsupported partial opinion, founded in ill will, which speaks well of none,
 to which hear John Whiting`'s reply.
-"`I would fain knew wherein +++[+++they shewed little of the spirit of martyrdom]
+"`I would fain knew wherein +++[+++they shewed little of the spirit of martyrdom+++]+++
 and beseech the reader to peruse, not only their examinations,
 and speeches at their deaths;
-but also their papers and epistles +++[+++recorded in the Appendix to New England judged,
-in Sewel`'s History, page 228, etc. or Besse`'s Sufferings, vol. 2. page 238.]
+but also their papers and epistles +++[+++recorded in the Appendix to [.book-title]#New England Judged,#
+in Sewel`'s [.book-title]#History,# page 228, etc. or Besse`'s [.book-title]#Sufferings, Vol. 2.# page 238.+++]+++
 and compare them with the speeches and letters of the martyrs, in the book of martyrs,
 and see whether they do not savour of the spirit of martyrdom,
-and holy resignation in the case.+++____+++ "`What won`'t envy misrepresent?
+and holy resignation in the case. +++____+++ "`What won`'t envy misrepresent?
 They died so like the martyrs of Jesus Christ,
 with the glorious spirit of God resting upon them; yea, and supporting them to the last,
 as affected the hearts of many at the time,
@@ -737,7 +760,10 @@ to their arbitrary and unmerciful proceedings,
 and finding them condemned by the generality of sober persons at home and abroad,
 they published the following apology, in justification of their conduct.
 
-"`Though the justice of our proceedings^
+[.embedded-content-document]
+--
+
+Though the justice of our proceedings^
 footnote:[It requires more sagacity than I am master of,
 to discover any regard to justice in their proceedings against these persons;
 and I presume every dispassionate reader will be at a loss to discover it also.]
@@ -764,7 +790,8 @@ both from Barbados and England^
 footnote:[This is a plain confession,
 that their persecuting measures were grounded upon no conviction of matters of fact;
 but on bitter prejudice, on no better grounds, than the reports of men,
-nighly as much prejudiced against this people as themselves.]) arrived at Boston,
+nighly as much prejudiced against this people as themselves.]
+arrived at Boston,
 whose persons were only secured to be sent away by
 the first opportunity without censure or punishment,^
 footnote:[This is not true,
@@ -908,7 +935,9 @@ the point which these persons have violently and willfully rustled upon,
 and thereby become Felones de se which, might it have been prevented,
 and the sovereign law salus populi been preserved, our former proceedings,
 as well as the sparing Mary Dyer, upon an inconsiderable intercession,
-will evidently evince, we desire their lives absent, rather than their deaths present.`"
+will evidently evince, we desire their lives absent, rather than their deaths present.
+
+--
 
 To conclude, this apology throughout proves a bad cause, the reasons advanced,
 when stripped of falsehood and exaggeration,
@@ -1013,9 +1042,13 @@ in London, as from an impartial hand, I copy an abstract,
 as an authentic relation of the measures pursued
 by this government in their treatment of this people.
 
-"`Abstract of James Cudworth`'s letter.
+[.embedded-content-document.letter]
+--
 
-"`As for the state and condition of things amongst us it is sad and like so to continue;
+[.letter-heading]
+Abstract of James Cudworth`'s letter.
+
+As for the state and condition of things amongst us it is sad and like so to continue;
 the antichristian, persecuting spirit is very active.
 He that will not whip, persecute and punish men that differ in matters of religion,
 must not sit on the bench, nor sustain any office in the commonwealth.
@@ -1054,7 +1087,7 @@ and their patience under it,
 hath sometimes been the occasion of gaining more adherents to them,
 than if they had suffered them openly to have preached a sermon.
 
-"`Another law made against: the Quakers is,
+Another law made against: the Quakers is,
 That if there be a Quakers-meeting any where in this colony,
 the party in whose house or on whose ground it is,
 shall pay 40s. the preacher 40s. and every hearer 40s. Our
@@ -1074,18 +1107,18 @@ It is only the word and spirit of the Lord that is able to convince gainsayers;
 these are the mighty weapons of a christian`'s warfare,
 by which mighty things are done and accomplished.
 
-"`The Quakers have many meetings and many adherents,
+The Quakers have many meetings and many adherents,
 almost the whole town of Sandwich is adhering to them, Their sufferings are grievous to,
 and sadden the hearts of most of the pious and virtuous part of this commonwealth,
 it lies down and rises up with them,
 and they cannot put it out of their minds -- The
-Massachussets have banished six on pain of death,
+Massachusets have banished six on pain of death,
 and I wish that blood may not be shed:
 Our poor people are pillaged and plundered of their goods,
 and haply when they have no more to satisfy the insatiable, desire of their persecutors,
 may be forced to fly, and glad to have their lives for a prey.
 
-"`The means whereby they are impoverished, are their scrupling an oath,
+The means whereby they are impoverished, are their scrupling an oath,
 and for their meetings:
 It being found that they had a conscientious scruple against swearing,
 all were called upon to take the oath of fidelity, which they refusing,
@@ -1096,14 +1129,14 @@ they are distrained over and over again.
 On this account thirty-five head of cattle, as I have been credibly informed,
 have been by the authority of our court taken from them the latter part of this summer.
 
-"`The last court of assistants--the court was pleased to determine fines on Sandwich
+The last court of assistants--the court was pleased to determine fines on Sandwich
 men for meetings 150£. whereof William Newland is charged 24£. for himself and wife;
 William Allen 46£. and a poor weaver 20£. Brother Cook told me,
 one of the brethren was in the house, when the marshal came to demand the money,
 when all that he was worth did not amount to 10£. What will be
 the end of such courses or practices the Lord only knows!
 
-"`Our civil powers are so exercised in matters of religion and conscience,
+Our civil powers are so exercised in matters of religion and conscience,
 that we have no time to do any thing that tends to
 promote the civil prosperity of the place,
 we must now have a state religion, such as the powers of this world will allow,
@@ -1114,7 +1147,7 @@ or be presented.
 I am informed of three or fourscore last court presented for not coming to public meetings,
 at ten shillings a time.
 
-"`We are wrapped up in a labyrinth of confused laws,
+We are wrapped up in a labyrinth of confused laws,
 that the freemen`'s power is quite gone, Sandwich men may not go to the bay,
 lest they be taken up for Quakers.
 William Newland was there about his occasions ten days ago,
@@ -1125,7 +1158,10 @@ they may not go about their occasions in other towns in our colony;
 but warrants lie in ambush to apprehend and bring them before a magistrate,
 to give an account of their business.
 
-"`James Cudworth`"
+[.signed-section-signature]
+James Cudworth
+
+--
 
 I do not find that during this period,
 any of those called Quakers had as yet visited any
