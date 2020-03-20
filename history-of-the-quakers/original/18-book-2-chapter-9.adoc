@@ -452,7 +452,7 @@ So after I had been warring with the world,
 there was now a wicked spirit risen up amongst friends to war against.
 And when he came to London, his resisting the power of God in me,
 and the truth that was declared to him by me, became one of his greatest burdens.
-George Fox`'s [.book.title]#journal#, octavo, Vol.1, p. 374.]
+George Fox`'s [.book.title]#Journal#, octavo, Vol.1, p. 374.]
 where he was a prisoner at the time of George Fox`'s release,
 who upon the night of his arrival at that city visited his friends in prison there,
 and James Nayler in particular,
@@ -545,10 +545,8 @@ in famous court passed upon Leighton for his book called,
 Zion`'s Plea against Prelacy.
 And the poignant censure of a late historian on the latter,
 may with little impropriety be applied to the other also.^
-// Do you want Vol II italicized below for Macaulay's book?
 footnote:[For a comparative view of the similarity of the two sentences,
 fee that passed upon Leighton in the above quoted author,
-
 viz. Macaulay, Vol.
 II. p. 93.]
 
@@ -767,7 +765,7 @@ in the forty-fourth year of his age.
 The following expressions, uttered by him about two hours before his departure,
 evidence the peaceful and even tenor or his mind at that solemn period.
 
-[.embedded-content-document]
+[.embedded-content-document.testimony]
 --
 
 There is a spirit which I feel, that delights to do no evil, nor to revenge any wrong,

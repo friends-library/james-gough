@@ -47,7 +47,6 @@ he proceeds:
 [.embedded-content-document.letter]
 --
 
-//this was called an epiistle on line 27
 In that day when thou was raised up, when the fear of the Lord was before thy face,
 and thy heart was towards him, and thou was but little in thine own eyes,
 it was well with thee, and the Lord blessed thee;
@@ -141,7 +140,7 @@ after investing him with power to name his successor,
 to convoke a yearly parliament composed of two houses, and settling his revenue,
 concluded with the following articles relating to religion:
 
-[.embedded-content-document]
+[.embedded-content-document.legal]
 --
 
 That his highness would encourage a godly ministry in these nations;
@@ -165,9 +164,8 @@ in men by the possession of power,
 according to the concurrent accounts historians have
 given us of the independents and their principles:
 
-[.embedded-content-document]
---
-
+[quote]
+____
 The fanaticism of the independents abolished all ecclesiastical government,
 disdained all creeds and systems, and rejected every ceremony.
 Of all christian sects this was the first, which,
@@ -176,7 +174,10 @@ always adopted the principle of toleration;
 and it is remarkable that so reasonable a doctrine owed its origin, not to reasoning,
 but to the height of extravagance and fanaticism.^
 footnote:[Hume]
+____
 
+[quote]
+____
 The doctrine of toleration, in these enlightened ages,
 adopted by the liberal of almost all persuasions, owed its origin to the independents,
 whose declared aversion to persecution and church tyranny was too opposite to the bigotry
@@ -192,8 +193,7 @@ and that the presbyterians,
 by preaching up the doctrine of obedience in spiritual matters to established powers,
 passed a self-condemnation on their own opposition to former tyrannies.^
 footnote:[Macauly]
-
---
+____
 
 These sentiments are laudable, and the reasoning upon them just;
 but I think the first quoted author hath gone too far in asserting,
