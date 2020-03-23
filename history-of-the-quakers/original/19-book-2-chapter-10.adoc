@@ -1,11 +1,14 @@
 == Chapter X.
 
-George Fox applies to Oliver Cromwell to stop Persecution.--Edward Burrough
-writes to him on the same Subject.--Attempt to make Cromwell King.--Articles
-relating to Religion.--Remarks.--The excluded Members admitted into Parliament,
-which is soon after dissolved.--Fruitless Applications for Relief
-from Persecution.--Edward Burrough`'s Proposal to vindicate the
-Doctrines of the People called Quakers rejected.
+[.chapter-synopsis]
+* George Fox applies to Oliver Cromwell to stop Persecution
+* Edward Burrough writes to him on the same Subject
+* Attempt to make Cromwell King
+* Articles relating to Religion
+* Remarks
+* The excluded Members admitted into Parliament, which is soon after dissolved
+* Fruitless Applications for Relief from Persecution
+* Edward Burrough`'s Proposal to vindicate the Doctrines of the People called Quakers rejected
 
 George Fox, near London, seeing a concourse of people,
 found they were gathered to see the protector passing by;
@@ -41,7 +44,10 @@ both in prospering his undertakings and preserving him from
 the plots and treacherous designs of his enemies,
 he proceeds:
 
-"`In that day when thou was raised up, when the fear of the Lord was before thy face,
+[.embedded-content-document.letter]
+--
+
+In that day when thou was raised up, when the fear of the Lord was before thy face,
 and thy heart was towards him, and thou was but little in thine own eyes,
 it was well with thee, and the Lord blessed thee;
 and it was not once thought concerning thee,
@@ -74,7 +80,9 @@ whose blood will be reckoned on account against thee in one day.
 Some have suffered hard cruelties, because they could not respect persons,
 and bow with hat or knee;
 and from these cruelties thou canst not altogether be excused in the sight of God,
-being inflicted in thy name and under thy power.`"
+being inflicted in thy name and under thy power.
+
+--
 
 A copy of the letter from which this extract was
 taken was delivered into Oliver Cromwell`'s own hands;
@@ -87,7 +95,10 @@ carried on unjustly against Burrough`'s friends.
 The futility of this excuse, too apparent to escape Burrough`'s penetration,
 drew from him the following remonstrance:
 
-"`Consider what is the cause, that what thou desirest: not to be done is yet done:
+[.embedded-content-document.letter]
+--
+
+Consider what is the cause, that what thou desirest: not to be done is yet done:
 Is it not that thou mayest please men?
 that thou mayest do the false teachers of this nation and wicked men a pleasure:
 Thou knowest of some in this city and elsewhere, whom we know to be just men,
@@ -103,6 +114,8 @@ than any dislike shewn by thee, in bearing witness, as thou oughtest to do, agai
 and this makes that thou canst not be clear in the sight of God in these things,
 because not helped by thee, when thou hast power to help them.`"^
 footnote:[Sewel p. 165]
+
+--
 
 These honest remonstrances met the like reception with former applications;
 they were received without apparent resentment,
@@ -127,7 +140,10 @@ after investing him with power to name his successor,
 to convoke a yearly parliament composed of two houses, and settling his revenue,
 concluded with the following articles relating to religion:
 
-"`That his highness would encourage a godly ministry in these nations;
+[.embedded-content-document.legal]
+--
+
+That his highness would encourage a godly ministry in these nations;
 and that such as do revile and disturb them in the worship of God,
 may be punished according to law, and where laws are defective, new ones to be made:
 That the protestant christian religion, as it is contained in the Old and New Testament,
@@ -135,8 +151,10 @@ be asserted and held forth for the public profession of these nations, and no ot
 and that a confession of faith be agreed upon and
 recommended to the people of these nations;
 and none to be permitted by word or writing to revile
-or reproach the said confession of faith.`"^
+or reproach the said confession of faith.^
 footnote:[Rapin]
+
+--
 
 These articles seem to betray little liberality of
 sentiment concerning religious or civil liberty,
@@ -146,16 +164,21 @@ in men by the possession of power,
 according to the concurrent accounts historians have
 given us of the independents and their principles:
 
-"`The fanaticism of the independents abolished all ecclesiastical government,
+[quote]
+____
+The fanaticism of the independents abolished all ecclesiastical government,
 disdained all creeds and systems, and rejected every ceremony.
 Of all christian sects this was the first, which,
 during its prosperity as well as its adversity,
 always adopted the principle of toleration;
 and it is remarkable that so reasonable a doctrine owed its origin, not to reasoning,
-but to the height of extravagance and fanaticism.`"^
+but to the height of extravagance and fanaticism.^
 footnote:[Hume]
+____
 
-"`The doctrine of toleration, in these enlightened ages,
+[quote]
+____
+The doctrine of toleration, in these enlightened ages,
 adopted by the liberal of almost all persuasions, owed its origin to the independents,
 whose declared aversion to persecution and church tyranny was too opposite to the bigotry
 and views of the presbyterians not to be productive of high contest and animosity.
@@ -168,8 +191,9 @@ pagans against christians, papists against protestants,
 with that which had been so lately endured from the power of the episcopacy;
 and that the presbyterians,
 by preaching up the doctrine of obedience in spiritual matters to established powers,
-passed a self-condemnation on their own opposition to former tyrannies.`"^
+passed a self-condemnation on their own opposition to former tyrannies.^
 footnote:[Macauly]
+____
 
 These sentiments are laudable, and the reasoning upon them just;
 but I think the first quoted author hath gone too far in asserting,
@@ -273,7 +297,10 @@ and their imputed errors, in plain terms and clear propositions;
 and that by divine permission they should receive a suitable answer,
 concluding his letter to the following purport;
 
-"`We are willing to be made manifest to all men,
+[.embedded-content-document.letter]
+--
+
+We are willing to be made manifest to all men,
 and that our principles may be brought to the test of true judgment; when,
 if any objections against us cannot be answered to
 the satisfaction of sober and unprejudiced men,
@@ -285,7 +312,9 @@ Let the teachers and all our adversaries refrain their contumelious aspersions,
 uncharitable railings against us, and false accusations of us to thee:
 Let thy ears be shut from believing lies against the innocent;
 and let none in thy dominions suffer under the cruelty of men,
-upon such groundless pretences.`"
+upon such groundless pretences.
+
+--
 
 This proposal was fair and reasonable,
 but we have no account that it was acceded to by Oliver or his teachers:
