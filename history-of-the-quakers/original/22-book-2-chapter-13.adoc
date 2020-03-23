@@ -1,24 +1,29 @@
 == Chapter XIII. Ireland
 
-William Edmundson the first of the People called Quakers
-in Ireland.--Account of him.--Importuned to settle in Dublin,
-but removes from thence to Antrim.--Going to the
-North of England hears James Nayler preach,
-whereby he is fully convinced.--Refuses to swear.--Miles Halhead,
-Miles Bateman and James Lancaster visit Ireland.--William Edmundson removes to Lurgan,
-and settles a Meeting there.--Receives a Gift in
-the Ministry.--John Tiffin comes over from England,
-William Edmundson accompanies him to Belfast.--Richard Clayton and William Edmundson
-travel on foot.--Are refused Entertainment at Coleraine.--Several convinced,
-near Kilmore.--Several Friends from England visit Ireland.--First Meeting in
-Dublin.--Many convinced.--At Limerick Edward Burrough and Francis Howgill assaulted,
-and put out of the Gate.--Taken Prisoners at Cork, and sent under a Guard to Dublin,
-and banished.--Edward Burrough`'s Remonstrance against their Treatment.--Barbara
-Blaugdon`'s Interview with the Lord Deputy.--William Edmundson quits
-Shop-keeping.--Removes to the County of Cavan,
-and settles a Meeting there.--Removes thence to Queen`'s County,
-and settles a Meeting at Mountmelick.--Barbara Blaugdon imprisoned.--William
-Edmundson set in the Stocks at Belturbet.
+[.chapter-synopsis]
+* William Edmundson the first of the People called Quakers in Ireland
+* Account of him
+* Importuned to settle in Dublin, but removes from thence to Antrim
+* Going to the North of England hears James Nayler preach, whereby he is fully convinced
+* Refuses to swear
+* Miles Halhead, Miles Bateman and James Lancaster visit Ireland
+* William Edmundson removes to Lurgan, and settles a Meeting there
+* Receives a Gift in the Ministry
+* John Tiffin comes over from England, William Edmundson accompanies him to Belfast
+* Richard Clayton and William Edmundson travel on foot
+* Are refused Entertainment at Coleraine
+* Several convinced, near Kilmore
+* Several Friends from England visit Ireland
+* First Meeting in Dublin
+* Many convinced
+* At Limerick Edward Burrough and Francis Howgill assaulted, and put out of the Gate
+* Taken Prisoners at Cork, and sent under a Guard to Dublin, and banished
+* Edward Burrough`'s Remonstrance against their Treatment* Barbara Blaugdon`'s Interview with the Lord Deputy
+* William Edmundson quits Shop-keeping
+* Removes to the County of Cavan,and settles a Meeting there
+* Removes thence to Queen`'s County, and settles a Meeting at Mountmelick
+* Barbara Blaugdon imprisoned
+* William Edmundson set in the Stocks at Belturbet
 
 The first of the people called quakers in lreland was William Edmundson,
 who came over in the way of trade;
@@ -311,7 +316,7 @@ a meeting in Dublin in the chamber of Richard Fowkes near Polegate,
 and soon a meeting was settled at George Latham`'s, near the same place.
 Their labours were also remarkably successful in the southern parts of that nation,
 being effectual to the convincement of many in Dublin and in the province of Munster,
-particularly William Ames who who had formerly been a ilitary officer,
+particularly William Ames who who had formerly been a military officer,
 a bold and zealous man, and a teacher amongst the Baptists.
 
 Francis Howgill and Edward Burrough also travelled forthward into Munster; at Badon,
@@ -320,7 +325,7 @@ footnote:[The said Edward Cook embraced the truth with his whole heart, and reta
 was given up to serve the Lord, and lived and walked under the cross of Christ Jesus,
 in great self-denial to the world and the glory and greatness of it to his dying day,
 and laid down his head in peace with God, and sweet unity with true-hearted friends.
-Rutty`'s Rise and Progress, p. 95.]
+Rutty`'s [.book-title]#Rise and Progress,# p. 95.]
 a man of good parts, a Cornet in Oliver Cromwell`'s own troop, and receiver to Lord Cork,
 and being convinced,
 he accompanied him on the first day of the week to the public worship,
@@ -397,7 +402,7 @@ of their personal liberty,
 until they should be proved guilty by the law of equity or that of the land,
 to which they professed subjection, and that for conscience sake.^
 footnote:[This remonstrance may be seen at large in Rutty`'s
-history of the Rise and Progress of the Quakers in Ireland,
+[.book-title]#History of the Rise and Progress of the Quakers In Ireland,#
 as also an excellent Epistle to his Friends in that kingdom.]
 
 The same day that they were banished from Dublin,
