@@ -1,16 +1,25 @@
 == Chapter III.
 
-Continuation of the Sufferings of the People called Quakers in America.--Sufferings
-of William Leddra.--He is brought to his trial.--Appeals to England.--His Appeal
-over-ruled.--Condemned to death.--The Manner of his Execution.--A Letter relating
-to his Death.--Edward Wharton`'s Examination.--Sentence of Banishment.--His Address
-to the People.--Trial of Wenlock Christison.--The Court divided,
-yet the Governor passes sentence of death upon him.--An Order for releasing
-the Quakers out of Prison.--Edward Burrough solicits the King to put a
-stop to the Persecution in New-England.--The King in compliance with his
-Solicitation orders a Mandamus to stop it,
-and deputes Samuel Shattock to carry it over.--The Mandamus delivered,
-and Persecution in part stopped.--Second Order for the discharge of Prisoners.
+[.chapter-synopsis]
+* Continuation of the Sufferings of the People called Quakers in America
+* Sufferings of William Leddra
+* He is brought to his trial
+* Appeals to England
+* His Appeal over-ruled
+* Condemned to death
+* The Manner of his Execution
+* A Letter relating to his Death
+* Edward Wharton`'s Examination
+* Sentence of Banishment
+* His Address to the People
+* Trial of Wenlock Christison
+* The Court divided, yet the Governor passes sentence of death upon him
+* An Order for releasing the Quakers out of Prison
+* Edward Burrough solicits the King to put a stop to the Persecution in New-England
+* The King in compliance with his Solicitation orders a Mandamus to stop it
+* He deputes Samuel Shattock to carry it over
+* The Mandamus delivered, and Persecution in part stopped
+* Second Order for the discharge of Prisoners
 
 As it was about this time that the people called Quakers in England received
 intelligence the severities against their friends in New England,
@@ -79,15 +88,20 @@ was very different from the representation of C. Mather, before recited,
 the following extract from a letter written the day
 before his death is a convincing proof.
 
-"`To the Society of the little flock of Christ, grace and peace be multiplied.
+[.embedded-content-document.letter]
+--
 
-"`Most dear and inwardly beloved friends, The sweet influences of the morning star,
+[.letter-heading]
+// Idk if letter headings should follow the 75% rule too?
+To the Society of the little flock of Christ, grace and peace be multiplied.
+
+Most dear and inwardly beloved friends, The sweet influences of the morning star,
 like a flood distilling into my innocent habitation,
 hath so filled me with the joy of the Lord in the beauty of holiness,
 that my spirit is as if it did not inhabit a tabernacle of clay;
 but is wholly swallowed up in the bosom of eternity, from whence it had its being.
 
-"`What can the wrath and spirit of man that lusteth to envy,
+What can the wrath and spirit of man that lusteth to envy,
 aggravated by the heat and strength of the king of the locusts,
 which came out of the pit, do to one,
 that is gathered under the healing wings of the prince of peace?
@@ -102,7 +116,11 @@ that I might in the love and life of God speak a few words to you,
 which may be a savour of life to your life, and a testimony in you of my innocent death,
 etc.
 
-WM. LEDDRA.`"
+[.signed-section-signature]
+William Leddra
+// I could be wrong, but I thought previously Jason told me to spell out names if I knew for certain who they were talking about. 
+
+--
 
 The next day after the writing of this letter,
 the unrighteous sentence pronounced against him was
@@ -164,9 +182,13 @@ who was much affected with his case,
 of which he wrote the following account in a letter to a friend of his at Barbados,
 viz.
 
-"`Boston, March the 26th, 1661.
+[.embedded-content-document.letter]
+--
 
-"`On the 14th of this instant, here was one William Leddra put to death.
+[.signed-section-context-open]
+Boston, March the 26th, 1661
+
+On the 14th of this instant, here was one William Leddra put to death.
 The people of the town told me he might go away if he would:
 but when I made further inquiry, I heard the marshal say, he was chained in prison,
 from the time he was condemned to the day of his execution.
@@ -179,31 +201,36 @@ He said, he had abused authority.
 Then I went after the man, and asked him,
 Whether he did not look on it as a breach of rule to undervalue authority?
 I saw then, when the man was on the ladder, he looked on me, and called me friend,
-and said, Know that this day l am to offer up my life for the witness of Jesus.
-Then I desired leave of the officers to speak, and said, Gentlemen,
-I am a stranger both to your persons and country, and yet a friend to both.
+and said, "`Know that this day I am to offer up my life for the witness of Jesus.`"
+Then I desired leave of the officers to speak, and said, "`Gentlemen,
+I am a stranger both to your persons and country, and yet a friend to both.`"
 And I cried aloud for the Lord`'s sake, take not away the man`'s life,
 but remember Gamaliel`'s counsel to the Jews: If this be of man it will come to nought;
 but if it be of God, you cannot overthrow it;
 but be careful ye be not found fighters against God.
-And the captain said, why had you not come to the prison?
+And the captain said, "`why had you not come to the prison?`"
 The reason was because I heard the man might go if he would,
-and therefore I called him down from the tree, and said, come down, William,
-you may go if will.
+and therefore I called him down from the tree, and said, "`come down, William,
+you may go if will.`"
 Then Capt.
-Oliver said, It was no such matter, and asked, what had I to do with it?
+Oliver said, "`It was no such matter,`" and asked, what had I to do with it?
 and bid me be gone.
 And I told them I was willing, for I could not endure to see this.
 And when I was in the town, some did seem to sympathize with me in my grief,
 but I told them, that they had no warrant from the word of God,
 nor precedent from our country, nor power from his Majesty, to hang the man.
 
-"`To Mr. Geo.
+[.signed-section-context-close]
+To Mr. Geo.
 Lad, master of the America of Dartmouth, now at Barbados.
 
-"`Your Friend,
+[.signed-section-closing]
+Your Friend,
 
+[.signed-section-signature]
 Thomas Wilkie
+
+--
 
 At the same court which William Leddra was condemned to death, Edward Wharton,
 who had been imprisoned near a year, was brought before their tribunal, where,
@@ -218,46 +245,45 @@ to which he replied, "`I love and honour all magistrates and rulers,
 who are for the punishment of evil doers, and the praise of them that do well.`"
 Then secretary Rawson called out, Edward Wharton come to the bar.
 
-Edward Wharton.
+_Edward Wharton._
 Yea, and to the bench too, for thou hast no evil to lay to my charge.
-Secretary.
+
+_Secretary._
 Hold up your hand.
 
-Edw.
-Wharton.
+_Edw. Wharton._
 I will not, thou hast no evil to charge me with.
 
-Secretary.
+_Secretary._
 Edward Wharton, hear your sentence of banishment.
 
-Edw.
-Wharton.
+_Edw. Wharton._
 Have a care what you do, for if you murder me, my blood will lie heavy upon you.
 
-Secretary.
+_Secretary._
 Edward Wharton attend to your sentence of banishment:
 You are upon pain of death to depart this jurisdiction,
 it being the 11th of this instant March, by the one and twentieth of the same,
 on the pain of death.
 
-Edw.
-Wharton.
+_Edw. Wharton._
 I am a single man, and I have dealings with some people;
 it were good I had time to make clear with all, and then if you have power to murder me,
 you may.
 
 Then the governor and secretary laid their heads together.
 
-Governor.
+_Governor._
 If we should give him a hundred days, it is all one.
 
-Edw.
-Wharton.
+_Edw. Wharton._
 Nay, I shall not go away, therefore be careful what you do.
 
 Then addressing the people assembled in the court, he spoke audibly as followeth, viz.
 
-"`All people, take notice, what horrible, wicked and unjust men these are;
+[quote]
+____
+All people, take notice, what horrible, wicked and unjust men these are;
 for after they had unrighteously taken me from my house, where,
 when the constable came in, I was following my honest calling in the fear of the Lord,
 he forced me out, and led me along the country like some evil-doer,
@@ -266,6 +292,7 @@ who said, you shall know hereafter.
 And now, they have kept me almost a year close prisoner, night and day,
 they have banished me on pain of death, and, for ought I know, they will murder me;
 and yet they have nothing to charge me withal, but my hat and my hair.`"
+____
 
 Upon this Rawson the secretary, taking the book of records, read to the people,
 how that contrary to law,
@@ -317,22 +344,22 @@ But after a while recovering themselves, they ordered him to be brought to the b
 when the marshal bade him pull off his hat, which he refused,
 and a short dialogue ensued, as followeth:
 
-Secretary Rawson.
+_Secretary Rawson._
 Is not your name Wenlock Christison?
 
-Wenlock.
+_Wenlock._
 Yes.
 
-Endicot.
+_Endicot._
 Wast not thou banished upon pain of death?
 
-Wenlock.
+_Wenlock._
 Yea, I was.
 
-Endicot.
+_Endicot._
 What doest thou here then?
 
-Wenlock.
+_Wenlock._
 I am come to warn you that you should shed no more innocent blood:
 for the blood you have shed already cries to the Lord for vengeance.
 
@@ -356,26 +383,26 @@ at which he was again brought to the bar and put upon his trial.
 The first question put to him by the governor was, What he had to say for himself,
 why he should not die?
 
-Wenlock.
+_Wenlock._
 I have done nothing worthy of death: if I had, I refuse not to die.
 
-Governor.
+_Governor._
 Thou art come in among us in rebellion, which is as the sin of witchcraft,
 and ought to be punished.
 
-Wenlock.
+_Wenlock._
 I came not in among you in rebellion, but in obedience to the God of heaven;
 not in contempt to any one of you, but in love to your souls and bodies;
 and that you shall know one day,
 when you and all men must give an account of the deeds done in the body.
 Take heed, for you cannot escape the c righteous judgments of God.
 
-Major-general Adderton.
+_Major-general Adderton._
 You pronounce woes and judgments,
 and those that are gone before you pronounced woes and judgments;
 but the judgments of the Lord are not come upon us yet.
 
-Wenlock.
+_Wenlock._
 Be not proud, neither let your spirits be lifted up;
 God doth but wait till the measure of your iniquity be filled up,
 and that you have run your ungodly race,
@@ -401,46 +428,46 @@ he had openly despised and treated with disdain, and which, as foretold,
 overtook him as a thief in the night.]
 By what law will you put me to death?
 
-Court.
+_Court._
 We have a law, and by our law, you are to die.
 
-Wenlock.
+_Wenlock._
 So said the Jews of Christ, We have a law, and by our law he ought to die:
 Who empowered you to make that law?
 
-Court.
+_Court._
 We have a patent and are patentees, judge whether we have not power to make laws?
 
-Wenlock.
+_Wenlock._
 How! have you power to make laws repugnant to the laws of England?
 
-Governor.
+_Governor._
 Nay.
 
-Wenlock.
+_Wenlock._
 Then you are gone beyond your bounds, and have forfeited your patent,
 and this is more than you can answer.
 Are you subjects to the King, yea or nay?
 
-Secretary Rawson.
+_Secretary Rawson._
 What will you infer from that, what good will that do you?
 
-Wenlock.
+_Wenlock._
 If you are, say so; for in your petition to the King,
 you desire that he will protect you,
 and that you may be worthy to kneel among his loyal subjects.
 
-Court.
+_Court._
 Yes.
 
-Wenlock.
+_Wenlock._
 So am I, and for any thing I know am as good as you, if not better:
 for if the King did but know your hearts, as God knows them,
 he would see that your hearts are as rotten towards him as they are towards God.
 Therefore seeing that you and I are subjects to the King,
 I demand to be tried by the laws of my own nation.
 
-Court.
+_Court._
 You shall be tried by a bench and jury.^
 footnote:[Those who had been condemned to death before him were deprived of this privilege;
 but the government of England being changed by the King`'s restoration,
@@ -448,26 +475,28 @@ they began to be afraid to go on in the former course,
 of condemning without a trial by jury,
 as being subversive of the fundamental laws of England, and rights of Englishman.]
 
-Wen lock.
+_Wenlock._
 That is not the law, but the manner of it; for if you will be as good as your word,
 you must set me at liberty,
 for I never heard or read of any law that was in England to hang Quakers.
 
-Governor.
+_Governor._
 There is a law to hang Jesuits.
 
-Wenlock.
+_Wenlock._
 If you put me to death, it is not be cause I go under the name of a Jesuit, but a Quaker,
 therefore I appeal to the laws of my own nation.
 
-Court.
+_Court._
 You are in our hands and have broken our laws, and we will try you.
 
-Wenlock.
+_Wenlock._
 Your will is your law, and what you have power to do, that you will do:
 and seeing that the jury must go forth on my life,
 this I have to say to you in the fear of the living God:
 
+[quote]
+____
 Jury, take heed what you do, for you swear by the living God,
 that you will true trial make, and just verdict give, according to the evidence.
 Jury, look for your evidence: what have I done to deserve death?
@@ -475,12 +504,13 @@ Keep your hands out of innocent blood.`'
 This one of the jurymen acknowledged to be good counsel, yet the generality,
 either prejudiced in their minds, or afraid of the displea sure of the court,
 from which they had received their lesson, soon brought him in guilty.
-Wenlock then said, I deny all guilt, for my consci ence is clear in the sight of God.
+Wenlock then said, I deny all guilt, for my conscience is clear in the sight of God.
+____
 
-Governor.
+_Governor._
 The jury hath condemned thee.
 
-Wenlock.
+_Wenlock._
 The Lord doth justify me, who art thou that condemnest?
 
 Then the court proceeded to vote as to the sentence of death,
@@ -494,7 +524,7 @@ throwing something down on the table, he cried I could find in my heart to go ho
 To which Wenlock replied, It were better for thee to be at home than here,
 for thou art about a bloody piece of work.
 
-Governor.
+_Governor._
 You that will not consent record it.
 I thank God, I am not afraid to give judgment.
 Wenlock Christison, hearken to your sentence:
@@ -503,7 +533,7 @@ and from thence to the place of execution,
 and there you must be hanged until you be dead, dead, dead, upon the 13th day of June,
 being the fifth day of the week.
 
-Wenlock.
+_Wenlock._
 The will of the Lord be done.
 In whose will I came amongst you, and in whose counsel I stand,
 feeling his eternal power, that will uphold me to the last gasp, I do not question it:
@@ -520,7 +550,7 @@ God can raise up the same principle of life in ten of his servants,
 and send them among you in my room, that you may have torment upon torment,
 which is your portion: for there is no peace to the wicked, saith my God.
 
-Governor.
+_Governor._
 Take him away.
 
 The holy confidence with which this concluding speech of Wenlock`'s was uttered,
@@ -572,7 +602,7 @@ when their party had lost the power of screening them,
 was I believe the most prevalent reason with them to drop
 the execution of their illiberal and persecuting law;
 but the spirit of malevolence and persecution continued to actuate them still.^
-footnote:[In Thomas Chalkley`'s journal, in his travels in New- England, in 1693,
+footnote:[In Thomas Chalkley`'s [.book-title]#Journal,# in his travels in New- England, in 1693,
 we meet with the following passage,
 "`I being a stranger and a traveller could not but observe
 the barbarous and unchristian welcome I had into Boston,
@@ -608,8 +638,8 @@ some that threatened to complain of their illegal proceedings,
 which was this; this year you will go to complain to the parliament,
 and the next year they will send to see how it is;
 and the third year the government is changed: This passage immediately struck him,
-so that calling to some of the lords to hear it, he said, Lo,
-these are my good subjects of New-England, but I will put a stop to them.
+so that calling to some of the lords to hear it, he said, "`Lo,
+these are my good subjects of New-England, but I will put a stop to them.`"
 The king being hereby prepossessed against them,
 readily complied with Edward Burrough`'s solicitations,
 who mandamus representing the case as urgent,
@@ -621,9 +651,13 @@ granted a deputation to Samuel Shattock, an inhabitant of New England,
 and under sentence of banishment on pain of death, to carry over the mandamus,
 a copy whereof followeth, viz.
 
-"`CHARLES R.
+[.embedded-content-document.legal]
+--
 
-"`Trusty and well beloved, we greet you well.
+[.letter-heading]
+Charles R.
+
+Trusty and well beloved, we greet you well.
 having been informed, that several of our subjects amongst you, called Quakers,
 have been and are imprisoned by you, whereof some have been executed,
 and others (as hath been represented unto us) are in danger to undergo the like;
@@ -648,9 +682,13 @@ and of all the Colonies thereunto belonging, that now are, or hereafter shall be
 and to all and every the ministers and officers of our Plantations and Colonies whatsoever,
 within the continent of New England.
 
+[.signed-section-closing]
 By his Majesty`'s command,
 
-WILLIAM MORRIS.`"
+[.signed-section-signature]
+William Morris
+
+--
 
 In order to lose no time in expediting a matter of such consequence, Ralph Goldsmith,
 a ship commander of a good ship, and one of their own society,
@@ -674,15 +712,24 @@ to return thanksgivings to the God and Father of all their mercies,
 for his signal mercy manifest in this admirable deliverance.
 Not long after, the following order of the court at Boston was issued.
 
-"`To William Salter, keeper of the prison at Boston.
+[.embedded-content-document.legal]
+--
 
-"`You are required, by authority and order of the general court,
+[.letter-heading]
+To William Salter, keeper of the prison at Boston.
+
+You are required, by authority and order of the general court,
 to release and discharge the Quakers, who at present are in your custody:
-See that you do not neglect this,`"
+See that you do not neglect this,
 
+[.signed-section-closing]
 By order of the court,
 
-"`EDWARD RAWSON, Sec.`"
+[.signed-section-signature]
+Eward Rawson, Sec.
 
+[.signed-section-context-close]
 Boston, 9th Dec.
 1661.
+
+--

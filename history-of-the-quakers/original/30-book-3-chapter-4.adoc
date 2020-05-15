@@ -1,14 +1,16 @@
 == Chapter IV.
 
-The Rulers of New England send a Deputation to the King with an Address of Congratulation,
-and Accusation of the Quakers.--Interview between some of the People
-called Quakers and the New England Deputies.--The Deputies,
-being alarmed,
-returned home.--Act against the Quakers brought into the House of Commons.--Friends
-of London use endeavours to get it stopped.--Edward Burrough replies to the suggestion
-of danger to the public Peace.--Richard Hubberthorn to the danger of Insurrections from
-their Meetings.--George Whitehead to their Meetings being termed unlawful.--They assert
-their Right to the Benefit of the King`'s Declaration from Breda.--The Bill passed.
+[.chapter-synopsis]
+* The Rulers of New England send a Deputation to the King with an Address of Congratulation, and Accusation of the Quakers
+* Interview between some of the People called Quakers and the New England Deputies
+* The Deputies, being alarmed, returned home
+* Act against the Quakers brought into the House of Commons
+* Friends of London use endeavours to get it stopped
+* Edward Burrough replies to the suggestion of danger to the public Peace
+* Richard Hubberthorn to the danger of Insurrections from their Meetings
+* George Whitehead to their Meetings being termed unlawful
+* They assert their Right to the Benefit of the King`'s Declaration from Breda
+* The Bill passed
 
 The rulers of the province of New England, during the time of the Commonwealth,
 and the succeeding revolutions of government in England,
@@ -18,7 +20,7 @@ without paying any regard to the restrictions of their charter,
 and executing them in as arbitrary a manner;
 looking upon the power as established in their own hands there,
 and those of their own party on this side, they would admit of no appeal to England,
-while they had nothing to fear from Eng land:
+while they had nothing to fear from England:
 
 But after the king`'s restoration the case was altered,
 and then they seemed to be really armed with fear of the
