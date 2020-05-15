@@ -157,11 +157,11 @@ George Fox
 
 --
 
-[.offset]
-Extract of an Epistle of George Fox the younger to King Charles II.
-
 [.embedded-content-document.letter]
 --
+
+[.letter-heading]
+Extract of an Epistle of George Fox the younger to King Charles II.
 
 The King of Kings hath beheld all thy actings in the dark,
 and he hath traced thy walking in obscure places;
@@ -359,9 +359,11 @@ instead of being charged with any crime or any indictment upon the late act,
 it seems a surer and severer method of crimination had been concerted.
 The judge began with the following question:
 
+[.discourse-part]
 _Judge._
 When did you take the oath of allegiance?
 
+[.discourse-part]
 _John Crook._
 I have been six weeks in prison, and am I now called to accuse myself?
 which you ought not to put me upon.
@@ -373,11 +375,13 @@ I stand here at this bar as a delinquent,
 and do desire that my accuser may be brought forth, and then I shall answer to my charge,
 if any I be guilty of.
 
+[.discourse-part]
 _Judge._
 You are here demanded to take the required to oath of allegiance,
 and when you have done that, you shall be heard about the other,
 for we have power to tender it to any man.
 
+[.discourse-part]
 _John Crook._
 Not to me upon this occasion, in this place,
 for I am brought thither as an offender already, and not to be made an offender here,
@@ -392,6 +396,7 @@ And you that are judges on the bench ought to be my council, and not my accusers
 but to instruct me in the benefit of the laws, that I may not, through ignorance,
 lose any advantage, which the laws of my country afford me, as an Englishman.
 
+[.discourse-part]
 _C+++.+++ Judge._
 We sit here to do justice, and are upon our oaths;^
 footnote:[This chief judge would have done well seriously to consider,
@@ -410,6 +415,7 @@ Judge`'s Oath,--"`You shall do equal law and execution of right to all his subje
 rich and poor, without having regard to any person.`"]
 and we are to tell you what is law, and not you us: Therefore, sirrah, you are too bold.
 
+[.discourse-part]
 _John Crook._
 Sirrah is not a word for a judge: I am no felon,
 neither ought you to menace the prisoner at the bar.
@@ -423,6 +429,7 @@ Let me see my accuser, that I may know for what cause I have been six weeks impr
 and do not put me to accuse myself by asking me questions.
 Let my accuser come forth, or else discharge me by proclamation, as you ought to do.
 
+[.discourse-part]
 _Judge Twisden._
 We take no notice of your being here, otherwise than as of a straggler,
 or as of any other person, or of the people that are here this day;
@@ -492,12 +499,13 @@ These arbitrary proceedings occasioning the prisoners, with just reason, to comp
 the executioner, as often as they attempted to speak, was ordered to stop their mouths,
 which he repeatedly did with a dirty cloth; and having a gag in his hand,
 endeavoured to gag John Crook and others.
-Upon this they cried out, Will you not give us leave to speak?
+Upon this they cried out, '`Will you not give us leave to speak?
 we except against some of the jury, as being our enemies,
 and of those who by force commanded us to be pulled out of our meetings,
 and carried us to prison without warrant or legal process; and must these be our judges?
-we except against them.
+we except against them.`'
 
+[.discourse-part]
 _Judge._
 It is too late now, you should have done it before they had been sworn jurymen.
 Jury, go together, that which you have to find is,
@@ -539,15 +547,18 @@ be fore they heard the prisoner`'s defence.
 Then silence being proclaimed, the recorder taking a paper in his hand,
 read to the following purpose, viz.
 
-[quote]
-____
+[.embedded-content-document.legal]
+--
+
 The jury for the king do find that John Crook, John Boston, and Isaac Grey,
 are guilty of refusing to take the oath of allegiance,
 for which you do incur a premunire, which is
 the forfeiture of all your real estates during life, and your personal estates forever,
 and you to be out of the king`'s protection, and to be imprisoned during his pleasure.
 And this is your sentence.
-____
+
+--
+
 John Crook replied, "`We are still under God`'s protection.`"
 
 The Court was adjourned, and the prisoners, remanded to Newgate.
@@ -657,33 +668,43 @@ I tender you the oath of allegiance; will you take it or no?
 I tell you the danger that will follow: You will incur a premunire,
 and forfeit your estate to the King.
 
+[.discourse-part]
 _R+++.+++ Smith._
 Who was that law made for, the papists or us?
 
+[.discourse-part]
 _Judge._
 For both.
 
+[.discourse-part]
 _R+++.+++ Smith._
 Why then is it not tendered to them, as well as us?
 
+[.discourse-part]
 _Judge._
 They have taken it already.
 
+[.discourse-part]
 _R+++.+++ Smith._
 Suppose I find some papists, or popishly affected, on the bench,
 shall it be done to them?
 
+[.discourse-part]
 _Judge._
 They have done it already.
 
+[.discourse-part]
 _R+++.+++ Smith._
 Let us and the people see, that we may be satisfied.
 
+[.discourse-part]
 _Judge._
 Will you take the oath or not?
 Otherwise we will record your refusal, and call you again tomorrow,
 and on your second refusal record it also,
-and pass sentence of premunire upon you.--Accordingly
+and pass sentence of premunire upon you.
+
+Accordingly
 the next day the like sentence was passed upon him,
 as J. Crook and companions, to which he replied, "`The Lord gives,
 and if he permits to take away, the will of the Lord be done.`"

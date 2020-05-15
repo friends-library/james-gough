@@ -92,7 +92,6 @@ before his death is a convincing proof.
 --
 
 [.letter-heading]
-// Idk if letter headings should follow the 75% rule too?
 To the Society of the little flock of Christ, grace and peace be multiplied.
 
 Most dear and inwardly beloved friends, The sweet influences of the morning star,
@@ -245,45 +244,53 @@ to which he replied, "`I love and honour all magistrates and rulers,
 who are for the punishment of evil doers, and the praise of them that do well.`"
 Then secretary Rawson called out, Edward Wharton come to the bar.
 
+[.discourse-part]
 _Edward Wharton._
 Yea, and to the bench too, for thou hast no evil to lay to my charge.
 
+[.discourse-part]
 _Secretary._
 Hold up your hand.
 
+[.discourse-part]
 _Edw. Wharton._
 I will not, thou hast no evil to charge me with.
 
+[.discourse-part]
 _Secretary._
 Edward Wharton, hear your sentence of banishment.
 
+[.discourse-part]
 _Edw. Wharton._
 Have a care what you do, for if you murder me, my blood will lie heavy upon you.
 
+[.discourse-part]
 _Secretary._
 Edward Wharton attend to your sentence of banishment:
 You are upon pain of death to depart this jurisdiction,
 it being the 11th of this instant March, by the one and twentieth of the same,
 on the pain of death.
 
+[.discourse-part]
 _Edw. Wharton._
 I am a single man, and I have dealings with some people;
 it were good I had time to make clear with all, and then if you have power to murder me,
 you may.
 
+[.offset]
 Then the governor and secretary laid their heads together.
 
+[.discourse-part]
 _Governor._
 If we should give him a hundred days, it is all one.
 
+[.discourse-part]
 _Edw. Wharton._
 Nay, I shall not go away, therefore be careful what you do.
 
 Then addressing the people assembled in the court, he spoke audibly as followeth, viz.
 
-[quote]
-____
-All people, take notice, what horrible, wicked and unjust men these are;
+"`All people, take notice, what horrible, wicked and unjust men these are;
 for after they had unrighteously taken me from my house, where,
 when the constable came in, I was following my honest calling in the fear of the Lord,
 he forced me out, and led me along the country like some evil-doer,
@@ -292,7 +299,6 @@ who said, you shall know hereafter.
 And now, they have kept me almost a year close prisoner, night and day,
 they have banished me on pain of death, and, for ought I know, they will murder me;
 and yet they have nothing to charge me withal, but my hat and my hair.`"
-____
 
 Upon this Rawson the secretary, taking the book of records, read to the people,
 how that contrary to law,
@@ -344,21 +350,27 @@ But after a while recovering themselves, they ordered him to be brought to the b
 when the marshal bade him pull off his hat, which he refused,
 and a short dialogue ensued, as followeth:
 
+[.discourse-part]
 _Secretary Rawson._
 Is not your name Wenlock Christison?
 
+[.discourse-part]
 _Wenlock._
 Yes.
 
+[.discourse-part]
 _Endicot._
 Wast not thou banished upon pain of death?
 
+[.discourse-part]
 _Wenlock._
 Yea, I was.
 
+[.discourse-part]
 _Endicot._
 What doest thou here then?
 
+[.discourse-part]
 _Wenlock._
 I am come to warn you that you should shed no more innocent blood:
 for the blood you have shed already cries to the Lord for vengeance.
@@ -383,13 +395,16 @@ at which he was again brought to the bar and put upon his trial.
 The first question put to him by the governor was, What he had to say for himself,
 why he should not die?
 
+[.discourse-part]
 _Wenlock._
 I have done nothing worthy of death: if I had, I refuse not to die.
 
+[.discourse-part]
 _Governor._
 Thou art come in among us in rebellion, which is as the sin of witchcraft,
 and ought to be punished.
 
+[.discourse-part]
 _Wenlock._
 I came not in among you in rebellion, but in obedience to the God of heaven;
 not in contempt to any one of you, but in love to your souls and bodies;
@@ -397,11 +412,13 @@ and that you shall know one day,
 when you and all men must give an account of the deeds done in the body.
 Take heed, for you cannot escape the c righteous judgments of God.
 
+[.discourse-part]
 _Major-general Adderton._
 You pronounce woes and judgments,
 and those that are gone before you pronounced woes and judgments;
 but the judgments of the Lord are not come upon us yet.
 
+[.discourse-part]
 _Wenlock._
 Be not proud, neither let your spirits be lifted up;
 God doth but wait till the measure of your iniquity be filled up,
@@ -428,38 +445,48 @@ he had openly despised and treated with disdain, and which, as foretold,
 overtook him as a thief in the night.]
 By what law will you put me to death?
 
+[.discourse-part]
 _Court._
 We have a law, and by our law, you are to die.
 
+[.discourse-part]
 _Wenlock._
 So said the Jews of Christ, We have a law, and by our law he ought to die:
 Who empowered you to make that law?
 
+[.discourse-part]
 _Court._
 We have a patent and are patentees, judge whether we have not power to make laws?
 
+[.discourse-part]
 _Wenlock._
 How! have you power to make laws repugnant to the laws of England?
 
+[.discourse-part]
 _Governor._
 Nay.
 
+[.discourse-part]
 _Wenlock._
 Then you are gone beyond your bounds, and have forfeited your patent,
 and this is more than you can answer.
 Are you subjects to the King, yea or nay?
 
+[.discourse-part]
 _Secretary Rawson._
 What will you infer from that, what good will that do you?
 
+[.discourse-part]
 _Wenlock._
 If you are, say so; for in your petition to the King,
 you desire that he will protect you,
 and that you may be worthy to kneel among his loyal subjects.
 
+[.discourse-part]
 _Court._
 Yes.
 
+[.discourse-part]
 _Wenlock._
 So am I, and for any thing I know am as good as you, if not better:
 for if the King did but know your hearts, as God knows them,
@@ -467,6 +494,7 @@ he would see that your hearts are as rotten towards him as they are towards God.
 Therefore seeing that you and I are subjects to the King,
 I demand to be tried by the laws of my own nation.
 
+[.discourse-part]
 _Court._
 You shall be tried by a bench and jury.^
 footnote:[Those who had been condemned to death before him were deprived of this privilege;
@@ -475,28 +503,30 @@ they began to be afraid to go on in the former course,
 of condemning without a trial by jury,
 as being subversive of the fundamental laws of England, and rights of Englishman.]
 
+[.discourse-part]
 _Wenlock._
 That is not the law, but the manner of it; for if you will be as good as your word,
 you must set me at liberty,
 for I never heard or read of any law that was in England to hang Quakers.
 
+[.discourse-part]
 _Governor._
 There is a law to hang Jesuits.
 
+[.discourse-part]
 _Wenlock._
 If you put me to death, it is not be cause I go under the name of a Jesuit, but a Quaker,
 therefore I appeal to the laws of my own nation.
 
+[.discourse-part]
 _Court._
 You are in our hands and have broken our laws, and we will try you.
 
+[.discourse-part]
 _Wenlock._
 Your will is your law, and what you have power to do, that you will do:
 and seeing that the jury must go forth on my life,
 this I have to say to you in the fear of the living God:
-
-[quote]
-____
 Jury, take heed what you do, for you swear by the living God,
 that you will true trial make, and just verdict give, according to the evidence.
 Jury, look for your evidence: what have I done to deserve death?
@@ -505,11 +535,12 @@ This one of the jurymen acknowledged to be good counsel, yet the generality,
 either prejudiced in their minds, or afraid of the displea sure of the court,
 from which they had received their lesson, soon brought him in guilty.
 Wenlock then said, I deny all guilt, for my conscience is clear in the sight of God.
-____
 
+[.discourse-part]
 _Governor._
 The jury hath condemned thee.
 
+[.discourse-part]
 _Wenlock._
 The Lord doth justify me, who art thou that condemnest?
 
@@ -519,11 +550,12 @@ being by his steadfastness in manifesting his innocence,
 and the iniquity of their unsanctioned law,
 convinced in their consciences that he had done nothing worthy of death.
 This dissent provoked the governor to that unseemly degree, that in a rage,
-throwing something down on the table, he cried I could find in my heart to go home.
+throwing something down on the table, he cried, '`I could find in my heart to go home.`'
 
-To which Wenlock replied, It were better for thee to be at home than here,
-for thou art about a bloody piece of work.
+To which Wenlock replied, '`It were better for thee to be at home than here,
+for thou art about a bloody piece of work.`'
 
+[.discourse-part]
 _Governor._
 You that will not consent record it.
 I thank God, I am not afraid to give judgment.
@@ -533,6 +565,7 @@ and from thence to the place of execution,
 and there you must be hanged until you be dead, dead, dead, upon the 13th day of June,
 being the fifth day of the week.
 
+[.discourse-part]
 _Wenlock._
 The will of the Lord be done.
 In whose will I came amongst you, and in whose counsel I stand,
@@ -550,6 +583,7 @@ God can raise up the same principle of life in ten of his servants,
 and send them among you in my room, that you may have torment upon torment,
 which is your portion: for there is no peace to the wicked, saith my God.
 
+[.discourse-part]
 _Governor._
 Take him away.
 
