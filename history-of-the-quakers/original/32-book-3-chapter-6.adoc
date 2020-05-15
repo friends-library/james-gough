@@ -1,16 +1,24 @@
 == Chapter VI.
 
-Several tried on the Act 35 Q. Elizabeth,
-in order to Banishment on pain of death.--George Fox presents an Address to the King,
-informing him of the Sufferings of his Friends.--Five hundred imprisoned in London,
-of whom many died.--Remarkable Petition to the Mayor.--Great Abuses of the Soldiers
-and Trained Bands.--Particularly at the Bull and Mouth.--Sessions at the Old Baily.--General
-Release of Prisoners by Order of the King.--Persecution continued.--Wheelerstreet Meeting
-broken up.--The Assembly at Bull and Mouth shamefully abused,
-where by many are grievously wounded, and one John Trowell dies of his Wounds.
-The Coroner`'s Inquest being empannelled to inquire into the Cause of his Death,
-decline bringing in a Verdict.--An Account of this Murder presented to the King.--And
-to the Lord Mayor (so called)--The Author of the Narrative committed to Newgate.
+[.chapter-synopsis]
+* Several tried on the Act 35 Q. Elizabeth, in order to Banishment on pain of death
+* George Fox presents an Address to the King, informing him of the Sufferings of his Friends
+* Five hundred imprisoned in London, of whom many died
+* Remarkable Petition to the Mayor
+* Great Abuses of the Soldiers and Trained Bands
+* Particularly at the Bull and Mouth
+* Sessions at the Old Baily
+* General Release of Prisoners by Order of the King
+* Persecution continued
+* Wheelerstreet Meeting broken up
+* The Assembly at Bull and Mouth shamefully abused
+* Many are grievously wounded
+* John Trowell dies of his Wounds
+* The Coroner`'s Inquest being empannelled to inquire into the Cause of his Death
+* He declines bringing in a Verdict
+* An Account of this Murder presented to the King
+* And to the Lord Mayor (so called)
+* The Author of the Narrative committed to Newgate
 
 What measures more arbitrary and inhuman could the utmost malice of man invent,
 short of capital punishment,
@@ -42,7 +50,10 @@ taken from their religious meetings and committed to the White-Lyon prison, Sout
 after about nine weeks imprisonment, were brought to their trial before Richard Onflow,
 president of the sessions and others, and arraigned upon the following indictment.
 
-"`The jurors for our lord the King do present upon their oath, that Arthur Fisher,
+[.embedded-content-document.legal]
+--
+
+The jurors for our lord the King do present upon their oath, that Arthur Fisher,
 late of the parish of St. Olave in the borough of Southwark in the county of Surry,
 yeoman; Nathaniel Robinson of the same, yeoman; John Chandler of the same yeoman,
 and others, being wicked, dangerous and seditious sectaries, and disloyal persons,
@@ -70,7 +81,9 @@ against the laws and statutes of this kingdom of England,
 in contempt of our said Lord the King that now is,
 his laws and to the evil and dangerous example of all others in the like case,
 offending against the peace of our said Lord the King that now is, his crown and dignity,
-and contrary to the form of the statute in the same case set forth and provided.`"
+and contrary to the form of the statute in the same case set forth and provided.
+
+--
 
 The indictment being read,
 the prisoners desired to be tried by the late act of parliament against conventicles;
@@ -377,3 +390,6 @@ The mayor was by letter duly apprised of this transaction; but giving no redress
 the said letter, with a narrative of these grievous abuses, was printed and published,
 for which the author was committed to Newgate by Brown, for dispersing scandalous papers,
 as he was pleased to call them.
+
+[.the-end]
+End of the first volume
